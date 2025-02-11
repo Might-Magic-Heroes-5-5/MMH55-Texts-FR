@@ -1,0 +1,2 @@
+﻿Tout sort de l'Ecole de la Lumière, sauf ceux infligeant des dommages, affectera également cette créature avec un
+effet équivalent au niveau de maîtrise Notions, et ce quel que soit le camp du lanceur.

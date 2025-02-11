@@ -1,0 +1,1 @@
+﻿Lorsqu'un ennemi lance un sort de l'Ecole de la Lumière, sa Puissance Magique est considérée comme inférieure de 25% à sa valeur réelle.

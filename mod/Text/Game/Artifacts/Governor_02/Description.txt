@@ -1,0 +1,7 @@
+﻿+6 d'Esprit si équipée<br>
++C/2 Ressources aléatoires par jour<br><color_default>
+(E=Esprit du jour, Si la ressource aléatoire est de l'Or, la quantité est multipliée par 1000)<br><br><color=orange>
+Phénix<color_default><br>
+Jetez cet artefact dans une fontaine de fortune et il invoquera un peloton de phénix. La taille de ce groupe est égale à 2*nombre de semaines écoulées..<br><br><color=yellow>
+Sac à dos<color_default><br>
+Les ressources sont également gagnées lorsque l'artefact est dans le sac à dos, mais la fonctionnalité est limitée à un artefact par héros.

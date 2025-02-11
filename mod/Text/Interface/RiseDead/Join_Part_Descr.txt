@@ -1,0 +1,5 @@
+﻿Vous pouvez ressusciter <body_bright><value=allowed_count> sur <value=count> <value=name><body>.<br>
+
+Cela vous coûtera <body_bright><value=energy_needed> points<body> de Flux Noir.
+
+<body_bright>Procéder à la résurrection ?

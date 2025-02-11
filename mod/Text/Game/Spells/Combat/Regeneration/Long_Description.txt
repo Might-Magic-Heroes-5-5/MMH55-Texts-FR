@@ -1,0 +1,1 @@
+﻿La créature ciblée récupère des points de vie au début de son tour. Inefficace sur les Non-Morts, les Elémentaires et les unités Mécaniques.

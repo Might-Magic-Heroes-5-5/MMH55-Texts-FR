@@ -1,0 +1,1 @@
+﻿Lorsqu'elle fonce sur sa cible, cette créature est capable d'infliger 50% de ses dommages normaux à toutes les créatures ennemies qu'elle croise, sans risque de riposte de leur part.

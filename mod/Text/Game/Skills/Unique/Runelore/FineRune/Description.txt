@@ -1,0 +1,1 @@
+﻿Accorde 40% de chances d'annuler le coût en ressources de l'activation d'une Rune.

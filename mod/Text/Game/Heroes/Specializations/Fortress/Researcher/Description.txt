@@ -1,0 +1,1 @@
+﻿Maître des Runes: Lorsqu'il gagne un Niveau, le Héros apprend automatiquement un sort runique supplémentaire. La probabilité est de 25%.

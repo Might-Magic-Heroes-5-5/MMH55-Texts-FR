@@ -1,0 +1,1 @@
+﻿Se retrouvant sous un sort de zone de Magie de la Destruction avec n'importe quelle troupe amie, cette créature reçoit une partie des dégâts qui seraient normalement infligés aux unités amies. Les dégâts absorbés sont de 2% par population hebdomadaire et 25% de ceux-ci sont convertis en soins par l'Armure Enchantée. Cette capacité ne fonctionne pas pour le sort Armageddon.

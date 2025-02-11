@@ -1,0 +1,1 @@
+﻿Octroie temporairement au Héros le contrôle de la créature ennemie ciblée. La créature contrôlée ne peut plus riposter. (La Compétence Magie des Ténèbres Avancée est nécessaire pour prendre le contrôle des créatures de rang 7).<br><color_default>Inefficace sur les Non-Morts, les Elémentaires et les unités Mécaniques.

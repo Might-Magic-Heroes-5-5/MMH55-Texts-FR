@@ -1,0 +1,1 @@
+﻿Augmente de 100% le nombre de points de Rage gagnés par les créatures de l'armée du Héros lors de l'utilisation de Cris de Guerre. (Augmentation limitée à 50% avec Pouvoir du Sang)

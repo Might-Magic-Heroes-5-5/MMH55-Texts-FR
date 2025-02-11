@@ -1,0 +1,1 @@
+﻿Une capacité de combat spéciale qui inflige de lourds dégâts à tous les pelotons invoqués ou bloqués. Les dégâts sont égaux à 120 + (40 * niveau du héros). La valeur ATB du héros est réinitialisée à 0,33 après utilisation.

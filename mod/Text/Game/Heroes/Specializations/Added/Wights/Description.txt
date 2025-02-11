@@ -1,0 +1,1 @@
+﻿Faucheur : Le héros commence avec +2 d'Attaque et au début de chaque semaine, des Revenants, Apparitions et Hurleuses supplémentaires seront disponibles pour le recrutement dans toutes les villes de type Nécropole possédées. Le montant est égal à 0,08*niveau du héros. Il n'y a pas de créatures supplémentaires disponibles avant le niveau 7.

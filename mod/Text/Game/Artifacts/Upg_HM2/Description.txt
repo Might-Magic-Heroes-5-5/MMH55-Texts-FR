@@ -1,0 +1,4 @@
+﻿+12 d'Esprit<br>
++N^4 d'Expérience une fois équipé pour la première fois<br>
+Accorde aux créatures amies l'immunité contre l'Hypnose.<br><br><color_default>
+(N=niveau du Héros, par exemple 810000 d'expérience au niveau 30)

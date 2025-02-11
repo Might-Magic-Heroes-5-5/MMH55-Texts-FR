@@ -1,0 +1,3 @@
+﻿Vous n'avez pas encore gardé cette mine avec des troupes, voulez-vous la garder en échange d'une somme unique de <value=num> Pièces d'Or ?
+
+(Les troupes stationnées dans cette mine augmenteront automatiquement en nombre, mais il est impossible d'interagir avec la garnison de la mine. Si la mine est attaquée, les gardes seront contrôlés par le propriétaire sur la carte de combat).

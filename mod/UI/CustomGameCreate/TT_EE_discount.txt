@@ -1,0 +1,1 @@
+﻿Permet à l'IA d'obtenir une réduction sur tous ses premiers achats pour un nombre limité de jours. Cette option n'est pas désactivée lors d'une partie en mode Jeu Relax.

@@ -1,0 +1,1 @@
+﻿Classe : Sorcier<br>Spécialisation : Intimidation<br><br><body_bright>Les unités ennemies ont une pénalité d'Initiative, en fonction du niveau du héros. L'initiative ennemie est réduite de 2 % + 0,2 % par niveau de héros.<br><color_default>Débute avec Notions de Magie de la Destruction.

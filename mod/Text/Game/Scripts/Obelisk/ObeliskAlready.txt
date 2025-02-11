@@ -1,0 +1,1 @@
+﻿<color=yellow>Vous avez déjà visité cet Obélisque, vous en avez découvert <value=amount> sur <value=total>!

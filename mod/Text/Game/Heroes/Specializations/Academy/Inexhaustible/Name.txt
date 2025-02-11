@@ -1,0 +1,1 @@
+﻿Classe : Conjureur<br>Spécialisation: Mystique<br><br><body_bright>Le Héros récupère progressivement du Mana en combat, et ce en fonction de son Niveau. Le héros regagne Niveau/4 (arrondi par excès) Mana avant chaque action.

@@ -1,0 +1,1 @@
+﻿Capacité spéciale qui inflige des dommages à toutes les créatures invoquées ou déphasées de l'armée ennemie, à hauteur de 40*Niveau du Héros + Maîtrise, où Maîtrise vaut 0 si le Héros ne possède pas de maïtrise en Magie de l'Invocation et s'élève à +10 pour chaque niveau de maîtrise jusqu'à atteindre 30 au niveau Expert.

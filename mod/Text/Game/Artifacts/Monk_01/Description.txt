@@ -1,0 +1,5 @@
+﻿+16 Mana par jour si équipé sans interruption<br><br><color=purple>
+Parure du Prophète<color_default><br>
++4 de Puissance Magique (3/5)<br>
++8 de Puissance Magique (5/5)<br>
+*Le bonus d'ensemble est appliqué après la fermeture de l'écran d'inventaire.

@@ -1,0 +1,1 @@
+﻿<h4>Coût de résurrection de cette créature : <body_bright><value=needed_energy> points<h4> de Flux Noir.

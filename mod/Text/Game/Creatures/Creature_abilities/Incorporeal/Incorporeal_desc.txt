@@ -1,0 +1,1 @@
+﻿Cette créature est immatérielle, toute attaque non magique contre elle n'a que 50 % de chances d'infliger des dégâts. La capacité n'est pas entièrement aléatoire, après avoir été manquée deux fois, la prochaine frappe physique réussira toujours, tandis qu'après avoir été touchée deux fois, la prochaine frappe physique ratera toujours.

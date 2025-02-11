@@ -1,0 +1,1 @@
+﻿Augmente les dégâts physiques infligés par les troupes du héros en combat.

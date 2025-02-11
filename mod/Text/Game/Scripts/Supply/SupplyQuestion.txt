@@ -1,0 +1,4 @@
+﻿Le propriétaire de cet établissement vous propose un contrat de ravitaillement en échange de <value=num> Pièces d'Or. Si vous acceptez, il livrera automatiquement toutes les ressources qu'il produit à votre royaume, au début de chaque semaine.
+
+OK = Signer le contrat (<value=num> Or)
+Annuler = Faire une seule visite.

@@ -1,0 +1,1 @@
+﻿Magie des Sept Cités : Le héro débute avec Magie de l'Invocation et son Esprit augmente de +1 tous les 7 niveaux. De plus, toute l'expérience gagnée après les batailles est augmentée de 2% par niveau du héros.

@@ -1,0 +1,1 @@
+﻿Inflige des dommages magiques à la créature ciblée en fonction du nombre d'ennemis que cette dernière a tués depuis le début du combat.

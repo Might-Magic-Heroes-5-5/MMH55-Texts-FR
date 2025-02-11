@@ -1,0 +1,1 @@
+﻿Baron des Zombies : Au début du combat, la valeur de l'ATB est réinitialisée pour tous les Zombies, Zombies Pestilentiels et Zombies Putréfiés amis, les incitant à agir immédiatement. De plus leur Attaque et leur Défense sont augmentées de +1 et ce tous les deux Niveaux du Héros à partir du Niveau 1.

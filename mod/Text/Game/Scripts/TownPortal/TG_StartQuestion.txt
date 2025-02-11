@@ -1,0 +1,21 @@
+﻿-------------------------------------------------------------------------------
+CONTRAT DE GOUVERNANCE
+-------------------------------------------------------------------------------
+
+Avantages: 
+
+- Le Héros obtient un gain d'expérience journalier en fonction du niveau de la ville et de son propre niveau.
+- Les habitations de la ville recevront un bonus de croissance chaque semaine. Le pourcentage de croissance équivaut au niveau du Héros : si son niveau est trop bas, aucune créature supplémentaire ne sera recrutée.
+- Le Héros obtiendra divers bonus en fonction des batiments présents dans la ville.
+- Si la ville possède une Guilde des Mages de Niveau 5, le Héros peut utiliser la capacité Portail Foyer pour se téléporter immédiatement à sa ville. Le Héros n'est cependant pas autorisé à se téléporter dans une autre ville.
+- Si le Héros possède un artéfact des Insignes de la Légion, les renforts obtenus chaque semaine seront directement ajoutés sous forme de recrues supplémentaires dans les habitations correspondantes de sa ville. La quantité de recrues disponibles est calculée en fonction de l'Esprit du Héros augmenté de +5 points.
+
+Obligations:
+
+- Le Héros doit rester dans un rayon de 50 cases autour de sa ville. Au delà de cette distance, le Héros perdra de plus en plus de points de mouvement, et les bonus qu'il apporte à la ville seront supprimés. Les gouverneurs de niveau inférieur à cinq perdront aussi des points de mouvement en étant proche de la ville.
+- Le Héros peut démissionner de ses fonctions de gouverneur, uniquement s'il se tient aux portes de la ville (et non en garnison). Il est contraint de gouverner la ville pendant au moins un mois. S'il souhaite démissionner avant, il devra payer une amende aux habitants équivalent à 100*Niveau du Héros par jours restants pour atteindre ce mois minimum.
+
+-------------------------------------------------------------------------------
+
+OK = Signer le contrat
+Annuler = Refuser

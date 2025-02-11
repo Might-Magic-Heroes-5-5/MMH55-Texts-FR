@@ -1,0 +1,1 @@
+﻿Permet à un Héros d'apprendre une nouvelle compétence, ou d'améliorer l'une de celles qu'il détient.

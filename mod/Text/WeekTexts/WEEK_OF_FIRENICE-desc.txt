@@ -1,0 +1,1 @@
+﻿Les sorts de feu et de glace infligent 10 % de dégâts supplémentaires pendant les combats.

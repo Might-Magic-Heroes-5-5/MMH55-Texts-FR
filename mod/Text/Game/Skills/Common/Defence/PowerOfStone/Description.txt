@@ -1,0 +1,1 @@
+﻿Enseigne le sort Grâce d'Endurance de Masse au Héros au niveau Pratique, à moins qu'il ne soit déjà Expert en Magie de la Lumière.<br><color_default>Le Héros consomme seulement 90% de son Initiative lorsqu'il lance un sort de Masse, peu importe son niveau de Sorcellerie.

@@ -1,0 +1,1 @@
+﻿Détruit l'armure d'un groupe de pelotons ennemis, réduisant leur Défense et infligeant une petite quantité de dégâts magiques non élémentaires. Les dégâts sont égaux à 10 * Puissance Magique du lanceur. Des lancers consécutifs réduiront davantage la Défense, mais pas en dessous de zéro.

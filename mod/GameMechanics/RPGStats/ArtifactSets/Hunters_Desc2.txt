@@ -1,0 +1,1 @@
+﻿Tous les tireurs reculent le long de la barre d'ATB de 30% de moins que d'habitude lorsqu'ils tirent. Les Rôdeurs, les Vengeurs et les Druides voient leur Chance augmentée de +1.

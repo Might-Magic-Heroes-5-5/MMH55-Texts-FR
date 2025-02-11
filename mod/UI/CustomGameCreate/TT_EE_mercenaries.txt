@@ -1,0 +1,9 @@
+﻿Permet d'ajuster la fréquence d'apparition d'un Héros parmi les pelotons de créatures neutres. Le Héros neutre sera de même Niveau que son adversaire. Non recommandé pour les cartes MMH5.5, puisque la puissance des créatures neutres y est déjà mise à niveau.
+
+Normal: Désactivé
+
+Difficile: 25% des pelotons
+
+Héroïque: 50% des pelotons
+
+Impossible: 90% des pelotons

@@ -1,0 +1,1 @@
+﻿Les dégâts des sorts de feu sont augmentés de 10% pendant les combats. Le nombre d'élémentaires de feu invoqués augmente de 50%.

@@ -1,0 +1,1 @@
+﻿En plus des dégâts normaux, la cible est également empoisonnée. Les dégâts d'empoisonnement sont proportionnels au nombre de créatures dans le peloton d'attaque (au moment de l'empoisonnement). Chaque Assassin et Traqueur subit 1 dégât pendant les 3 prochaines actions. Chaque Manticore inflige 8 points de dégâts pour les 3 prochaines actions.

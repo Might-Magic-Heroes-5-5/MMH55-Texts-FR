@@ -1,0 +1,1 @@
+﻿Double les chances d'activation des capacités spéciales des créatures de l'armée du Héros (comme le Coup Brutal des Fantassins), en offrant une seconde chance avec la même probabilité que la compétence du peloton se déclenche. Le Héros sera aussi susceptible de récolter entre 10 et 30% plus d'or, de ressources et de créatures, lors de ses aventures.

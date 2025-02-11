@@ -1,0 +1,3 @@
+﻿<color_default>Amélioration de la Guildes des Mages de Niveau 4.<br><color_bright>Permet à un Héros d'accéder à 2 sorts du Cinquième Cercle.<br><br>
+<color=green>Portail Foyer<color_default><br>Permet aux Héros de se téléporter jusqu'à cette ville à partir de n'importe quel endroit de la carte.<br><br>
+<color=0099FF>Gouvernance<color_default><br>Accorde un bonus de +4 de Puissance Magique au Gouverneur de la Cité.

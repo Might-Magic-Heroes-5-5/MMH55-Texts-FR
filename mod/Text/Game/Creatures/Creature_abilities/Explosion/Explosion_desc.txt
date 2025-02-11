@@ -1,0 +1,1 @@
+﻿La créature lance le sort Boule de Feu autour d'elle, endommageant toutes les créatures adjacentes mais pas elle-même. Les dégâts infligés par la Boule de Feu sont égaux à la Puissance Magique*24.

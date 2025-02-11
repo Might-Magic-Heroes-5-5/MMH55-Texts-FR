@@ -1,0 +1,1 @@
+﻿Inflige des dégâts de Glace à toutes les unités entourant la cible.

@@ -1,0 +1,1 @@
+﻿Augmente de 1 les dégâts minimum et maximum de chaque créature contrôlée par le héros.

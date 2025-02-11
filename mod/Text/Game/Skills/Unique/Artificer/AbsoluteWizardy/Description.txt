@@ -1,0 +1,1 @@
+﻿Inscrit tous les sorts existants dans le Livre de Sorts du Héros. Permet au Héros de les lancer au niveau Expert d'une Ecole.

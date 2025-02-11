@@ -1,0 +1,1 @@
+﻿Le roi a collecté <value=number> d'or de taxes pour votre revenu.

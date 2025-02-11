@@ -1,0 +1,1 @@
+﻿Fanatique : Le héros débute avec Déphasage (une compétence que les sorciers ne peuvent normalement pas apprendre) et l'Initiative de toutes les créatures de l'armée du héros est augmentée de 2,5 % + 0,25 % par niveau du héros.

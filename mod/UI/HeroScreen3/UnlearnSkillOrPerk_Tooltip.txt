@@ -1,0 +1,1 @@
+﻿Oublier la Compétence ou la Capacité sélectionnée<hotkey=hero_unlearn_skill>

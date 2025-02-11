@@ -1,0 +1,1 @@
+﻿Augmente de +12 la portée visuelle du Héros et lui permet de connaître le nombre exact de créatures constitutant les armées neutres ou ennemies, ainsi que dans les Cités et Garnisons situées à proximité.<br><color_default>La portée visuelle initiale des Héros est de 12.

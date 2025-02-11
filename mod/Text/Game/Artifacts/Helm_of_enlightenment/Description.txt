@@ -1,0 +1,4 @@
+﻿+3 de Connaisance<br>
++10% de gain d'Expérience gain<br><br><color=purple>
+Tenue de l'Apprenti<color_default><br>
+Le porteur reçoit chaque jour un montant d'Expérience égal au nombre de jours passés * 10, s'il porte à la fois le Turban et le Haubert.

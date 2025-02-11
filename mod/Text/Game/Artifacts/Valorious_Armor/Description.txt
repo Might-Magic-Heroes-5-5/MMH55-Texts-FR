@@ -1,0 +1,4 @@
+﻿+1 en Défense<br>
++5 d'Esprit calculé pour tous les artefacts actifs<br>
++5 en Défense calculé pour tous les artefacts actifs<br><color_default>
+(Affecte tous les artefacts actifs sur ce héros donnant des ressources, des troupes ou ressuscitant des créatures)

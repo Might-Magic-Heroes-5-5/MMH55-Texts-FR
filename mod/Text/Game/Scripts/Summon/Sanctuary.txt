@@ -1,0 +1,1 @@
+﻿<color=yellow>Quelques réfugiés hébergés ici ont décidé de se joindre à votre cause ! (+<value=num> <value=upgtype>s)

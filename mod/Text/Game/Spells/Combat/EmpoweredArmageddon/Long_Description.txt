@@ -1,0 +1,1 @@
+﻿Inflige de lourds dommages à toutes les créatures et Machines de Guerre présentes sur le champ de batailleet des dommages physiques locaux au point d'impact.<br><color_default>La formule de calcul des dégâts physiques supplémentaires est la même que pour Chaîne de Foudre Amplifiée.

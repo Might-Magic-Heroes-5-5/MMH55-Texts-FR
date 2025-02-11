@@ -1,0 +1,1 @@
+﻿Donne le contrôle d'un peloton ennemi qui n'est pas immunisé contre le Contrôle Mental. La durée est de 2 tours si le peloton a la même valeur (en expérience), mais elle est réduite ou augmentée jusqu'à un maximum de 4 en fonction de la différence. La Succube ne peut pas agir pendant la Séduction.

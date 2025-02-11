@@ -1,0 +1,1 @@
+﻿Le Héros ne dépense pas de points de mouvement pour ramasser des ressources, entrer dans un bâtiment, monter à bord d'un bateau ou d'autres actions similaires. La capacité s'applique aussi en mer excepté lorsque le Héros accoste (qui coûte un point de mouvement).

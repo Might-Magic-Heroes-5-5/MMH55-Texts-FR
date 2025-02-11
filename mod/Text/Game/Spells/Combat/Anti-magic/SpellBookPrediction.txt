@@ -1,0 +1,1 @@
+﻿Immunité contre les sorts de Niveau 1 à <value=enchant> pendant <value=duration> tour(s).

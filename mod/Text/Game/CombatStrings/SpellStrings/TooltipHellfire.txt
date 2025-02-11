@@ -1,0 +1,1 @@
+﻿<color_default><value=chance>% chance de <value=damage> dégâts de feu

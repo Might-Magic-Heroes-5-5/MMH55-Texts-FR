@@ -1,0 +1,1 @@
+﻿<color=red>La porte est occupée par un autre héros !

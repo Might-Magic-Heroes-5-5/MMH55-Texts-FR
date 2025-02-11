@@ -1,0 +1,1 @@
+﻿Augmente les dommages des troupes du Héros lors des ripostes. Permet au Chevalier d'améliorer ses troupes humaines au rang supérieur. Utilisable uniquement dans les Cités Havre disposant d'un Terrain d'Entraînement.

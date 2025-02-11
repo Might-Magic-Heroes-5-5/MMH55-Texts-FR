@@ -1,0 +1,1 @@
+﻿Téléporte les créatures de la ville la plus proche vers le héros au prix de 1 mana par créature.<color_default><br>L'apprentissage de ce sort nécessite un héros de niveau 5. Aucune compétence magique n'est requise.

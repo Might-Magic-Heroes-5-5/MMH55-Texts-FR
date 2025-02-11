@@ -1,0 +1,1 @@
+﻿Il y a d'autres joueurs humains en jeu. Souhaitez-vous faire équipe avec eux contre les joueurs IA ? (Toujours choisir "Annuler" si cette carte contient déjà sa propre configuration d'équipe)

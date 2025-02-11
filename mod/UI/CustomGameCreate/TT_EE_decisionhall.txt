@@ -1,0 +1,1 @@
+﻿Permet d'ajuster le délai avant que le Hall des Décisions apparaisse.

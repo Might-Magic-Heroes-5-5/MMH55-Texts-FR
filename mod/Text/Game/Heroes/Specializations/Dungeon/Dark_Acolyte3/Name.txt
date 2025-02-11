@@ -1,0 +1,1 @@
+﻿Classe : Gardien de la Flamme<br>Spécialisation: Mystique<br><br><body_bright>Le héros débute avec +1 de Chance et perd moins de Points de Mouvement lorsqu'il utilise la capacité Rituel des Arcanes. Le coût de déplacement est réduit de 2 par point de mana récupéré.<br><color_default>Débute avec la capacité Rituel des Arcanes.

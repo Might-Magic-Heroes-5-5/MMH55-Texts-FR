@@ -1,0 +1,1 @@
+﻿Crée un cristal à l'endroit désigné sur le champ de bataille, empêche les tireurs adjacents de tirer ou entrave le mouvement jusqu'à la fin du combat ou jusqu'à ce que le cristal soit attaqué et détruit.

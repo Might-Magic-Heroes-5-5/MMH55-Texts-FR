@@ -1,0 +1,1 @@
+﻿Classe : Nécromancien<br>Spécialisation : Reine de l'Essaim<br><br><body_bright>Augmente l'efficacité du sort Essaim et le héros apprend le sort Ruche au niveau 15. Les dégâts sont augmentés de 5% par Niveau du héros. La réduction de la valeur ATB est mulipliée par (1+0,02*Niveau/3).<br><color_default>Débute avec Notions de Magie de l'Invocation.

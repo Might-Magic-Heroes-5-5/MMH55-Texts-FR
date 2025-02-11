@@ -1,0 +1,1 @@
+﻿Cette créature est capable de téléporter une autre créature se trouvant dans un rayon de sept cases, vers une case qui lui est adjacente, et ce quel que soit le camp de la créature. (Capacité activable)

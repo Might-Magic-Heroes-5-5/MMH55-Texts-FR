@@ -1,0 +1,1 @@
+﻿Parchemin : <value=spell_name>

@@ -1,0 +1,1 @@
+﻿Classe : Rôdeur<br>Spécialisation : Garde Forestier<br><br><body_bright>Le héros débute avec +1 de Défense. La compétence augmente par la suite de +1 tous les 7 niveaux.<br><color_default>Débute avec Notions de Machines de Guerre.

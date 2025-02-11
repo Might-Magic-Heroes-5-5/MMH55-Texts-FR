@@ -1,0 +1,4 @@
+﻿+2 à toutes les Caractéristiques du porteur<br>
++500000 d'Expérience<br>
+Apprend au héros tous les sorts<br><br>
+<color=7F38EC>Livre de compétences<color_default><br>Le héros a besoin d'un certain temps pour étudier cet objet et acquérir définitivement les connaissances qu'il contient. Au début de la semaine prochaine, l'objet disparaît du sac à dos et le bonus est appliqué définitivement.

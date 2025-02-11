@@ -1,0 +1,1 @@
+﻿Augmente de 2.5% les dommages infligés par les créatures de l'armée du Héros pour chacun de leurs points de Moral. Le bonus est limité à 25%. L'Attaque des Héros de la Nécropole est augmentée de +2 de manière permanente.

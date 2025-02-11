@@ -1,0 +1,5 @@
+﻿+1 en Défense<br>
++1 de Puissance Magique<br><br>
+Ressuscite une quantité de créatures natives de rang 5 après le combat. Le montant est égal à 30 % + 1 %*E de toutes les pertes ou alternativement à 130 + 10*E de tous les points de vie perdus (selon ce qui entraîne le plus de créatures ressuscitées). La résurrection nécessite 12 Mana.<color_default> E = Esprit du héros et le montant est arrondi à l'inférieur. Les créatures mortes-vivantes, mécaniques et élémentaires ne peuvent pas être ressuscitées.
+<br><color=purple>Atours du Saint<color_default><br>
+-2 Mana au coût de resurrection par artifact (3/7)

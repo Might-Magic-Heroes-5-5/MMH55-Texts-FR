@@ -1,0 +1,1 @@
+﻿Permet aux créatures du Bastion de l'armée du Héros d'atteindre le second niveau de Rage Sanguinaire au fil de l'avancement d'un combat.

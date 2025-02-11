@@ -1,0 +1,1 @@
+﻿Les fortifications de cette ville sont plus difficiles à détruire. Chaque structure de défense (murs, tours et porte) ont 50 points de Vie supplémentaires.

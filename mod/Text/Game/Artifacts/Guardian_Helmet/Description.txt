@@ -1,0 +1,7 @@
+﻿+2 à toutes les Caractéristiques du porteur<br><br><color=purple>
+Attirail du Héros Oublié<color_default><br>
++1 à toutes les Caractéristiques du porteur (2/4)<br>
++2 à toutes les Caractéristiques du porteur (4/4)<br>
+*Le bonus d'ensemble est appliqué après la fermeture de l'écran d'inventaire.<br><br><color=orange>
+Quête<color_default><br>
+Apportez les 4 pièces de l'Attirail du Héros Oublié à un marchand d'artefacts et recevez une récompense unique.

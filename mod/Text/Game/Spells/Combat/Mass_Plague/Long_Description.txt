@@ -1,0 +1,1 @@
+﻿Inocule la peste aux créatures du peloton ennemi ciblé. A chaque tentative d'effectuer une action, ces dernières se verront infliger des dommages de Terre. Affecte également les créatures situées à proximité de la cible.<br><color_default>Inefficace contre les Non-Morts, les Elémentaires et les unités Mécaniques.

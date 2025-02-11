@@ -1,0 +1,2 @@
+﻿<color_default>Amélioration de l'Autel des Elements.<br><color_bright>Pour les Sorciers : Augmente de 5% les dommages infligés par les Chaînes Elémentaires.<br>Pour les Assassins et le Dominateurs: Augmente de +1 l'Attaque de vos Héros.1<br>Les effets sont cumulatifs si vous disposez de plusieurs Autels.<br><br>
+<color=0099FF>Gouvernance<color_default><br>Accorde un bonus de +2 d'Attaque au Gouverneur de la Cité.

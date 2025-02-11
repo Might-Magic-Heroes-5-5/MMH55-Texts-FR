@@ -1,0 +1,1 @@
+﻿Permet au Héros de découvrir 5 à 25% d'or et de ressources en plus au cours de ses aventures et les coffres au trésor qu'il ouvre contiennent 25 à 50% plus d'or. Aussi, les revenus provenant du réseau de ravitaillement est augmenté de +1 ressources ou +500 pièces d'or en moyenne pour chaque fournisseur.

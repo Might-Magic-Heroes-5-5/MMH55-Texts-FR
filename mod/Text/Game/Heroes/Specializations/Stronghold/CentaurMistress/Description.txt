@@ -1,0 +1,1 @@
+﻿Commandant des Centaures : Augmente de +1 l'Attaque et la Défense des Centaures, des Nomades Centaures et des Pillards Centaures de l'armée du Héros, et ce pour chaque deux Niveaux du Héros à partir du Niveau 1. Augmente également de 0,25% par Niveau du Héros leur Initiative de départ.

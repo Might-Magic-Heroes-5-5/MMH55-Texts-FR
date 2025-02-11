@@ -1,0 +1,1 @@
+﻿Enrayeur de Sorts : Le héros a +1 chance en permanence et peut bloquer un sort lancé par un ennemi, et ce en fonction du Niveau du Héros. Le Héros ennemi se trouve alors dans l'impossibilité de relancer ce sort.

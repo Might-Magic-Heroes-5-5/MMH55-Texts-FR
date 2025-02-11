@@ -1,0 +1,1 @@
+﻿La caractéristique de Puissance Magique augmente l'efficacité des sorts lancés par le Héros (quantité de dommages, durée, etc...). La nature exacte de l'amélioration dépend du sort utilisé.

@@ -1,0 +1,1 @@
+﻿Fait en sorte que toutes les unités amies agissent plus fréquemment au combat. Si la cible est sous l'influence du sort Hex d'Epuisement, les deux effets resteront actifs et la différence de puissance des lanceurs déterminera le résultat.

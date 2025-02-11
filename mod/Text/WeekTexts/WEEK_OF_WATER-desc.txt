@@ -1,0 +1,1 @@
+﻿Les dégâts des sorts de glace sont augmentés de 10% pendant le combat. Le nombre d'élémentaires d'eau invoqués augmente de 50%.

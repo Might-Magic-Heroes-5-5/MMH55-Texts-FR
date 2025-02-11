@@ -1,0 +1,1 @@
+﻿Augmente de +3 la Vitesse des créatures de l'armée du Héros lors du siège d'une Cité ennemie.

@@ -1,0 +1,1 @@
+﻿<color_default>Amélioration de la Loge de Chasse.<br><color_bright>Le Pavillon de Chasse vous permet de recruter des Maîtres Chasseurs et des Maîtres Archers.

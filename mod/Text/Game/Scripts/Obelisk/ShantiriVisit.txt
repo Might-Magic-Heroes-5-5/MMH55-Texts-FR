@@ -1,0 +1,1 @@
+﻿<color=yellow>Vous avez déchiffré <value=amount> sur <value=total> Disques de Shantiri !

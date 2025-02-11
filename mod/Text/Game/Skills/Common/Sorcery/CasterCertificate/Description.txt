@@ -1,0 +1,1 @@
+﻿Augmente de +2 la Puissance Magique du Héros et lui accorde un bonus temporaire de +100 Mana (bonus accordé une seule fois). Au niveau 20, la Puissance Magique du Héros est augmenté d'un bonus de +2 supplémentaire.

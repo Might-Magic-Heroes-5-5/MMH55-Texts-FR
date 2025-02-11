@@ -1,0 +1,1 @@
+﻿Augmente de +2 l'Esprit du Héros et lui accorde un bonus de 1000 points d'Expérience + 250 par Niveau du Héros (bonus accordé une seule fois, mais de façon définitive).

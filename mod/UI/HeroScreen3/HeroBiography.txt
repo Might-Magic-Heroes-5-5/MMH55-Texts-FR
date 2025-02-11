@@ -1,0 +1,1 @@
+﻿<h3_text>Spécialisation<br><body_bright><value=spec_desc><br><br><h3_text>Biographie<br><body_bright><value=biography>

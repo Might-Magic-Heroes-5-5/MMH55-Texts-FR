@@ -1,0 +1,1 @@
+﻿Classe: Magicien<br>Spécialisation : Chercheur<br><br><body_bright>L'Esprit du héros augmente de +1 tous les 7 niveaux et toute l'expérience gagnée après les batailles est augmentée de 2% par niveau du héros.<br><color_default>Débute avec la capacité Erudit.

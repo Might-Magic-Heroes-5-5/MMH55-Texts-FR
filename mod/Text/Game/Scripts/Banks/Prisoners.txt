@@ -1,0 +1,1 @@
+﻿<color=yellow>Vous avez libéré <value=num> prisonniers de rang <value=level>.

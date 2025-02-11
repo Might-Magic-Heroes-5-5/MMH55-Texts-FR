@@ -1,0 +1,1 @@
+﻿Diminue la Vitesse de toutes les créatures ennemies de -1. Les créatures ennemies qui échouent au test de moral subissent une pénalité de -20% en Attaque et en Défense jusqu'au début du prochain tour. Les Chevaliers de la Mort, les Mages du Néant et les Nécromanciens voient leur puissance augmenter de +4.

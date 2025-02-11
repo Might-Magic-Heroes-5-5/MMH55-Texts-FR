@@ -1,0 +1,1 @@
+﻿Permet le contrôle manuel de la Tente de Premiers Soins et lui permet de ressusciter des créatures éliminées d'un peloton. Répare automatiquement une Tente de Premiers Soins détruite après un combat. Les points de Vie de base de la Tente de Premiers Soins sont aussi doublés.

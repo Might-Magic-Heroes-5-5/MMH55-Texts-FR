@@ -1,0 +1,1 @@
+﻿Permet de placer des Runes sur vos créatures lors d'un combat, afin de les doter de nouvelles capacités. Le niveau de cette compétence détermine le niveau des Runes qui peuvent être utilisées.

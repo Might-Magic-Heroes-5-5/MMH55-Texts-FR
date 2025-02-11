@@ -1,0 +1,2 @@
+﻿Améliore la compétence Vengeance. Permet aux Rôdeurs de choisir un ennemi intime.<br><br>
+<color=0099FF>Gouvernance<color_default><br>Accorde un bonus de +1 d'Attaque au Gouverneur de la Cité.

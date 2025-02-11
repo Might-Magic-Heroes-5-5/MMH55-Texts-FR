@@ -1,0 +1,1 @@
+﻿<color=red>Vous ne possédez pas de ville avec une guilde des mages !

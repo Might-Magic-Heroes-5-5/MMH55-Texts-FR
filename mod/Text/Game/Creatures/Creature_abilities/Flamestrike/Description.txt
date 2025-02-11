@@ -1,0 +1,1 @@
+﻿Une fois par combat, cette créature est capable d'attaquer n'importe quel ennemi en lui infligeant 20% dégâts réguliers sans pénalité de portée, ainsi que Marque du Feu (Capacité activable).

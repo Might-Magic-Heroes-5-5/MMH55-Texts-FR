@@ -1,0 +1,2 @@
+﻿Permet à un Héros d'accéder à 3 sorts du Premier Cercle.<br><br>
+<color=0099FF>Gouvernance<color_default><br>Accorde un bonus de +1 de Puissance Magique au Gouverneur de la Cité.

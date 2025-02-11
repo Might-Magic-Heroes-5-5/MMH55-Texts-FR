@@ -1,0 +1,1 @@
+﻿Cette fenêtre affiche des renseignements sur les spécialisations du Héros et sur les compétences acquises durant la partie.

@@ -1,0 +1,1 @@
+﻿Maître Assembleur : Tous les Golems de Fer, Golems d'Acier et Golems Magnétiques de l'armée du héros agissent immédiatement lorsque le combat commence. Tous les Golems de Fer et leurs améliorations de l'armée du héros gagnent également +1 à leur Attaque et à leur Défense tous les deux niveaux du héros, à partir du premier niveau.

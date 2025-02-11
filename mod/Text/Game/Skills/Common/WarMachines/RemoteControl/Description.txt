@@ -1,0 +1,1 @@
+﻿Permet au Héros de prendre le contrôle de l'une des Machines de Guerre de son adversaire dès le début du combat. La Machine est choisie aléatoirement, Catapulte incluse.

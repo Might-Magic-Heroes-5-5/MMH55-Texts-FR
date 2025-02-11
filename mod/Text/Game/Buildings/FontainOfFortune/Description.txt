@@ -1,0 +1,6 @@
+﻿33% d'obtenir +3 de Chance
+33% d'obtenir +2 de Chance
+33% d'obtenir -1 de Chance
+100% d'obtenir 33 Mana
+
+<color_default>Certains artefacts peuvent être dissous ici.

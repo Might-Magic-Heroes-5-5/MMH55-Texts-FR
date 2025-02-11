@@ -1,0 +1,1 @@
+﻿Le jeu reste actif même lorsqu'il est réduit. Pour le jeu en mode fenêtre, il reste actif lorsque la fenêtre n'est pas aggrandie.

@@ -1,0 +1,1 @@
+﻿Lorsqu'un ennemi lance un sort de l'Ecole de l'Invocation, il perd 25% d'Initiative supplémentaires.

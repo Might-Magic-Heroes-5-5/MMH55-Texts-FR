@@ -1,0 +1,8 @@
+﻿+6 d'Esprit<br>
++6 Mana par jour si équipée sans interruption<br><br><color=purple>
+Grande Tenue d'Apparat de Sar-Issus<color_default><br>
++50% de Puissance Magique & de Mana aux créatures du héros (2/4)<br>
++100% de Puissance Magique & de Mana aux créatures du héros (4/4)<br>
+*Le bonus d'ensemble est appliqué après la fermeture de l'écran d'inventaire.<br><br><color=orange>
+Quête<color_default><br>
+Apportez l'ensemble de la Grande Tenue d'Apparat de Sar-Issus à un astrologue et recevez une récompense unique.

@@ -1,0 +1,1 @@
+﻿Augmente la Défense de l'unité amie sélectionnée. La Puissance Magique détermine la durée de l'effet.

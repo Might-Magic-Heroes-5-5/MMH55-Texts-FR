@@ -1,0 +1,8 @@
+﻿-------------------------------------------------------------------------------
+COMPTOIR
+-------------------------------------------------------------------------------
+
+Choisissez le type de potion :
+
+OK = Acheter une potion de mana (5000 Pièces d'Or)
+Annuler = Acheter une potion de mouvement (10000 Pièces d'Or)

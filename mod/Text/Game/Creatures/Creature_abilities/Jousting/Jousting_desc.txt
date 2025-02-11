@@ -1,0 +1,1 @@
+﻿Augmente de 3,33% les dommages infligés par cette créature pour chaque case du champ de bataille parcourue juste avant d'attaquer.

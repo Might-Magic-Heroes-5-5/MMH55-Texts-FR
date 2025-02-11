@@ -1,0 +1,1 @@
+﻿La cible sélectionnée obtient tous les attributs d'un mort-vivant et la capacité Drain de Vie. Les sorts de contrôle mental affectant la cible sont supprimés et la cible peut être ressuscitée de façon permanente par Animation de Cadavre.

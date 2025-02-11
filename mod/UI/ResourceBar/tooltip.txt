@@ -1,0 +1,2 @@
+﻿<center><tooltip_default><tooltip_title><value=name><tooltip_default><value=strings>
+<br><br><color_default>Utilisez la capacité Gestion de Ville pour vérifier les revenus supplémentaires apportés par chaque Héros.

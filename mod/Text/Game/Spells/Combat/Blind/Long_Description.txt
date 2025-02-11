@@ -1,0 +1,1 @@
+﻿Aveugle la créature ennemie sélectionnée de sorte qu'elle ne peut pas se déplacer, attaquer ou utiliser ses capacités. La cécité disparaît si la créature aveuglée est attaquée. La Puissance Magique détermine la durée de l'effet.<br><color_default>Ce sort ne fonctionne pas sur les morts-vivants, les élémentaires et les unités mécaniques.

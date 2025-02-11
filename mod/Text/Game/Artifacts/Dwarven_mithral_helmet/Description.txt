@@ -1,0 +1,8 @@
+﻿+3 en Défense<br>
++3 d'Esprit<br>
+Accorde aux créatures amies l'immunité au sort Hex d'Aveuglement Terrestre<br>
+<br><color=purple>
+Gangue des Seigneurs Nains<color_default><br>
++4 en Défense (2/4)<br>
++8 en Défense (4/4)<br>
+*Le bonus d'ensemble est appliqué après la fermeture de l'écran d'inventaire.

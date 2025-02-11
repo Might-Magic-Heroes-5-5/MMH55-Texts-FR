@@ -1,0 +1,8 @@
+﻿+1 à toutes les Caractéristiques du porteur<br>
++10% d'Initiative aux unités d'attaque à distance<br><br><color=purple>
+Pouvoir des Dragons<color_default><br>
++2 à toutes les Caractéristiques du porteur (4/8)<br>
++4 à toutes les Caractéristiques du porteur (8/8)<br>
+*Le bonus d'ensemble est appliqué après la fermeture de l'écran d'inventaire.<br><br><color=orange>
+Quête<color_default><br>
+Offrez les 8 pièces du Pouvoir des Dragons sur un Autel Sacrificiel pour une récompense unique.

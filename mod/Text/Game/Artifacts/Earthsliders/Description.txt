@@ -1,0 +1,3 @@
+﻿Augmente de 15% les dégâts infligés par les sorts de Terre.<br>
++2 Mana par jour si équipé sans interruption<br><color_default>
+L’augmentation des dégâts affecte Stalagmites, Pluie de Météores, Choc Terrestre et Hex de Peste

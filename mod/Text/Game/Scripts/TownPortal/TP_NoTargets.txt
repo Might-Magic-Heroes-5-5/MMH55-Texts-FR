@@ -1,0 +1,1 @@
+﻿<color=red>Aucune de vos villes ne dispose d'un Portail innocupé.

@@ -1,0 +1,1 @@
+﻿Réduit la Puissance Magique du héros ennemi d'une valeur correspondant à la moitié de la Puissance Magique du Héros.

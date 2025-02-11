@@ -1,0 +1,1 @@
+﻿Permet d'acheter des artefacts et augmente légèrement le revenu quotidien en or pour chaque artefact acheté, l'augmentation est égale à 25, 50 ou 100 pour les artefacts mineurs, majeurs et les reliques respectivement.

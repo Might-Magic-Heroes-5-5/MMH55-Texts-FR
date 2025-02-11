@@ -1,0 +1,1 @@
+﻿Permet de poser aléatoirement des mines magiques dans une zone choisie du champ de bataille. Ces mines sont invisibles pour l'ennemi.

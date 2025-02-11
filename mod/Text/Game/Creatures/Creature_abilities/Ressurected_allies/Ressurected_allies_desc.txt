@@ -1,0 +1,1 @@
+﻿Cette créature est capable de ressusciter un peloton allié une fois par combat, à condition que la case où se trouvent les corps des unités ciblées ne soit pas occupée par d'autres créatures (Capacité activable). La puissance de la résurrection est égale à la taille du peloton*100.

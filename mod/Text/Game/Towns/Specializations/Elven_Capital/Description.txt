@@ -1,0 +1,1 @@
+﻿Cette ville fournit à son possesseur +500 PO par jour et augmente de +2 le Moral et la Chance de ses défenseurs.

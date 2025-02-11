@@ -1,0 +1,1 @@
+﻿Enseigne le sort Invocation d'Elémentaires au Héros et augmente de +4 la Puissance Magique du Héros lors du lancement des sorts Invocation de Phénix et Invocation d'Elémentaires.

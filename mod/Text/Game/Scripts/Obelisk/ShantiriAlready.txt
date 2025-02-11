@@ -1,0 +1,1 @@
+﻿<color=yellow>Vous avez déjà visité ce Disque de Shantiri, vous en avez découvert <value=amount> sur <value=total>!

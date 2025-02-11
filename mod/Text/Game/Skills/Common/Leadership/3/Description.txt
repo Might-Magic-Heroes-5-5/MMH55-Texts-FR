@@ -1,0 +1,1 @@
+﻿Augmente de +3 le Moral des créatures de l'armée du Héros. Augmente aussi de +6 l'Attaque des Héros de la Nécropole.<br><color_default>Lorsque un effet de moral positif est déclenché sur une unité, son prochain tour sera avancé de 60%. Lorsque un effet de moral négatif est déclenché sur une unité, son prochain tour sera retardé de 40%.

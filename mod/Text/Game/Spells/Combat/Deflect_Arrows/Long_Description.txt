@@ -1,0 +1,1 @@
+﻿Crée un bouclier magique autour de la cible, réduisant les dégâts à distance.

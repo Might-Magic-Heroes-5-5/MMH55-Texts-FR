@@ -1,0 +1,1 @@
+﻿Permet au Héros d'apprendre les sorts du troisième cercle de l'Ecole des Ténèbres et augmente l'efficacité de tous les sorts de cette école.

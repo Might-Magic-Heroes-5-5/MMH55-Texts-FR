@@ -1,0 +1,1 @@
+﻿Permet au Héros d'apprendre un sort qu'il ne connaît pas si une créature ou un Héros ennemi l'utilise sur le champ de bataille. Le Héros doit être capable d'apprendre ce sort en termes de niveau et d'Ecole de Magie. Permet également de visualiser le contenu de l'inventaire du Héros ennemi.

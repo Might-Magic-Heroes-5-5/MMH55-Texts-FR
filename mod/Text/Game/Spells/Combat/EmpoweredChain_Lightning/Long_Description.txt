@@ -1,0 +1,1 @@
+﻿Inflige d'énormes dégâts de foudre à plusieurs créatures adjacentes (jusqu'à 4), en commençant par celle qui est sélectionnée. Chaque créature suivante dans la chaîne reçoit la moitié des dégâts infligés à la précédente (la chaîne peut toucher des créatures amies).

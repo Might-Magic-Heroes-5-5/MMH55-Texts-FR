@@ -1,0 +1,1 @@
+﻿Flamboyant : La Puissance Magique effective du héros est augmentée lorsqu'il lance Boule de feu ou Boule de feu amplifiée. L'augmentation est égale au niveau du héros/3. La Guilde des Mages invoque également des Elémentaires de Feu au lieu d'Elémentaires de l'Air, mais pas si le héros n'était pas présent sur la carte le premier jour ou s'il a été embauché dans une taverne.

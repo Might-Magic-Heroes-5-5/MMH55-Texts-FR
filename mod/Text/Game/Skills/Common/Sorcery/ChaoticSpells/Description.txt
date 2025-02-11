@@ -1,0 +1,1 @@
+﻿Réduit aléatoirement (jusqu'à 50%) le coût en Mana des sorts du Héros lorsqu'il les lance.<br><color_default>Précisemment, la probabilité que le coût d'un sort soit réduit est d'une chance sur deux puis, la réduction est déterminée aléatoirement jusqu'à 50% du coût normal du sort.

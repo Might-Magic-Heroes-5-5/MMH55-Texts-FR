@@ -1,0 +1,4 @@
+﻿+1 de Moral
++400 Points de Mouvement
+
+<color_default>Certains artefacts peuvent être sacrifiés ici.

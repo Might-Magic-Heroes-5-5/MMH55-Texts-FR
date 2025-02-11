@@ -1,0 +1,6 @@
+﻿+4 en Défense si équipé<br><br>
+Au début de chaque semaine, un peloton d'unités de rang 6 de la faction du héros rejoindra son armée, à condition qu'un peloton de cette unité soit déjà présente. La taille des renforts correspond à l'Esprit du porteur.
+<br><color=orange>Insignes de la Légion<br><color_default>
+Offrez les 7 Insignes de la Légion sur un autel sacrificiel pour une récompense unique.
+<br><color=yellow>Sac à dos<color_default><br>
+Les renforts sont également gagnés lorsque l'artefact n'est pas équipé, mais pas si un Insigne de niveau supérieur est équipé ou dans le sac à dos.

@@ -1,0 +1,1 @@
+﻿Souhaitez-vous convertir cette habitation à votre faction ?<br><br>Coûts:<br>Or: <value=gold>, Bois: <value=wood>, Minerai: <value=ore>

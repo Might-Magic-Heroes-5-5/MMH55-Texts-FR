@@ -1,0 +1,1 @@
+﻿Une vieille sorcière vivant dans une étrange hutte vous accueille et s'intéresse à votre quête. Elle vous propose de vous enseigner <value=mastery> <value=skill>. Acceptez-vous ?

@@ -1,0 +1,7 @@
+﻿Augmente de 5% la Compétence Nécromancie<br>
+Réduit le nombre de points de Flux Noir nécessaires pour ressusciter des créatures de 10%<br>
+Accorde aux créatures amies l'immunité à Hex de Peste<br><br><color=purple>
+Etreinte de la Mort<color_default><br>
++6 de Puissance Magique (3/6)<br>
++12 de Puissance Magique (6/6)<br>
+*Le bonus d'ensemble est appliqué après la fermeture de l'écran d'inventaire.

@@ -1,0 +1,1 @@
+﻿Le Héros privilégie son arme plutôt que sa magie. Accorde au Héros 50% de chances d'infliger le double de dommages à sa cible lorsqu'il attaque.

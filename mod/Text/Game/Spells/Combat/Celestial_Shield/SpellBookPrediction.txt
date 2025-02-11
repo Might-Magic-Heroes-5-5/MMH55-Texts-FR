@@ -1,0 +1,1 @@
+﻿Réduit de <value=damage>% les dommages infligés.<br>Résistance du bouclier : <value=enchant> points de vie.

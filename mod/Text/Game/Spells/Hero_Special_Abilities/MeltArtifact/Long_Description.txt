@@ -1,0 +1,1 @@
+﻿Le héros dissout un artefact équipé sur une créature amie pour utiliser l'énergie magique qu'il contient pour soigner et ressusciter la créature en combat.<br><color_default>Le nombre de points de vie soignés est égal à 10 * (Niveau du héros) * (1 + X), où X est le nombre d'effets façonnés dans l'artefact dissous. Le héros passe 50% de son tour à dissoudre l'artefact.

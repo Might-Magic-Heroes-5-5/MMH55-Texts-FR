@@ -1,0 +1,1 @@
+﻿Les Magiciens peuvent créer des artéfacts afin d'améliorer leurs créatures. Ces artéfacts sont conservés dans un sac spécial. Seules les créatures de l'Académie peuvent utiliser ces artéfacts.

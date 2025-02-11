@@ -1,0 +1,1 @@
+﻿Le héros gagne +4  de Défense et toutes les créatures qu'il contrôle ne reçoivent que 50% des dégâts de tous les sorts de feu. Elles sont également immunisées contre les effets de dégâts d'armure de la capacité Maître du feu.

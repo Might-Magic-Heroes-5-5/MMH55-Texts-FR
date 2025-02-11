@@ -1,0 +1,1 @@
+﻿Assaillant : Le héros commence avec +1 d'Attaque et augmente de +1 tous les 7 niveaux.

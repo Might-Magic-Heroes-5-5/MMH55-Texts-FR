@@ -1,0 +1,1 @@
+﻿Permet le contrôle manuel de la Baliste et lui accorde un tir supplémentaire. Répare automatiquement une Baliste détruite après un combat. Les points de Vie de base de la Baliste sont aussi doublés.

@@ -1,0 +1,1 @@
+﻿Lorsque cette créature attaque, le sort Chagrin est automatiquement lancé sur sa cible avec un effet équivalent sans niveau de maîtrise.

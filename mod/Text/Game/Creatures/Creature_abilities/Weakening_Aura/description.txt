@@ -1,0 +1,1 @@
+﻿Cette créature réduit de -3 l'Attaque, de -2 la Défense et de -1 le Moral de toutes les autres créatures se trouvant à proximité, et ce quel que soit leur camp. Inefficace contre les Non-Morts.

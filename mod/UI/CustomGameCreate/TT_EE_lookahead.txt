@@ -1,0 +1,1 @@
+﻿Permet d'ajuster la capacité d'anticipation de l'IA. Impossible est le paramétrage le plus 'futé' mais il peut grandement ralentir les calculs sur des cartes très grandes. Désactivez cette option si les tours de l'IA sont trop longs. Pour les cartes XL, il n'est pas recommandé d'aller au-delà de « Difficile ».

@@ -1,0 +1,1 @@
+﻿Améliore l'Attaque de toutes les créatures amies d'un montant dépendant de la puissance du lanceur de sorts. Si les cibles sont sous l'influence du sort Hex de Contracture, les deux effets resteront actifs et la différence de puissance des lanceurs déterminera le résultat.

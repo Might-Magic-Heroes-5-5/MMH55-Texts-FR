@@ -1,0 +1,2 @@
+﻿<color_default>Amélioration de la Guilde des Vengeurs.<br><color_bright>Augmente de 10% les chances de porter un coup critique à un ennemi intime et augmente de +1 la Défense de tous vos Protecteurs (effet cumulatif avec les autres Cités).<br><br>
+<color=0099FF>Gouvernance<color_default><br>Accorde un bonus de +2 d'Attaque au Gouverneur de la Cité.

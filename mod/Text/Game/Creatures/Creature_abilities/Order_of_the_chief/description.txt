@@ -1,0 +1,2 @@
+﻿Cette créature est capable d'avancer le tour de jeu de l'unité alliée ciblée en lui infligeant des dommages. (Capacité activable) En notant Nb_Chefs le nombre de Chefs de Clan: la cible alliée subit Nb_Chefs points de dégâts, et sa valeut ATB est
+augmentée de Nb_Chefs*0,01, limité à 0,6. Simultanément, les dégâts infligés seront égaux à Nb_Chefs (capacité activée).

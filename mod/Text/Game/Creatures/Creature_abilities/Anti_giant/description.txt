@@ -1,0 +1,1 @@
+﻿L'Attaque et la Défense de cette créature augmentent temporairement de +6, si la cible est une Grande Créature.

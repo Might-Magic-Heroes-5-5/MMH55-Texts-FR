@@ -1,0 +1,1 @@
+﻿<color=red>Impossible de se téléporter à partir d'un navire !

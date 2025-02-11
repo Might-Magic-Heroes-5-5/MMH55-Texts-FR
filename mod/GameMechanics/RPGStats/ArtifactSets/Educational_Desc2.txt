@@ -1,0 +1,1 @@
+﻿Augmente la quantité d'Expérience gagnée par le Héros de +15%.

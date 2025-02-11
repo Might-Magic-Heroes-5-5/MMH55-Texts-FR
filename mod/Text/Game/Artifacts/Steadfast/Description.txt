@@ -1,0 +1,1 @@
+﻿Augmente de +5 la Défense du porteur, mais réduit son Attaque de -1.

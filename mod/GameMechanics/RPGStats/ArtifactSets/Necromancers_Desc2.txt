@@ -1,0 +1,1 @@
+﻿Diminue la Vitesse de toutes les créatures ennemies de -1.

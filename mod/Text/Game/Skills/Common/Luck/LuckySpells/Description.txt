@@ -1,0 +1,1 @@
+﻿Effectue un jet de Chance lors du lancement de sorts de destruction par le Héros. En cas de succès, les dommages infligés par le sort sont augmentés de 66%.<br><color_default>La probabilité d'infliger des dommages supplémentaires est la même que d'habitude: Chance*10%, sans pénalité si la Chance est négative.

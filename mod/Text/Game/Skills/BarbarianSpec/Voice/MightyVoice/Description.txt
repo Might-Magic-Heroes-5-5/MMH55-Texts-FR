@@ -1,0 +1,1 @@
+﻿Lors du calcul de l'effet d'un Cri de Guerre, le Héros est considéré comme ayant 5 Niveaux de plus que son Niveau réel.

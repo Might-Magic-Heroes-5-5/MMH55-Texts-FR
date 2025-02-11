@@ -1,0 +1,2 @@
+﻿La Bibliothèque révèle 1 sort supplémentaire par Cercle à la Guilde des Mages.<br><br>
+<color=0099FF>Gouvernance<color_default><br>Accorde un bonus de +2 d'Esprit au Gouverneur de la Cité.

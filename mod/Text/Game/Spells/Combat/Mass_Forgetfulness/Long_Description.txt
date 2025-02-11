@@ -1,0 +1,1 @@
+﻿Fait oublier aux créatures du peloton ennemi ciblé ce qu'elles font sur le champ de bataille. Certaines des créatures affectées oublieront d'utiliser les attaques de tir et les frappes de représailles. (Ce sort ne fonctionne pas sur les morts-vivants, les élémentaires et les unités mécaniques).

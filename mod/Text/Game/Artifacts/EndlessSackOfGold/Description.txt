@@ -1,0 +1,5 @@
+﻿+E*50 Pièces d'Or par jour<br><color_default>
+(E=Esprit du héro, par exemple 1000 Pièces d'Or par jour pour 20 de Connaisssance)<br><br><color=orange>
+Sac<color_default><br>
+Apportez les trois artefacts d'Or Inépuisable à une bibliothèque arcanique pour une récompense unique<br><br><color=yellow>
+Sac à Dos<color_default><br>Cet artefact fonctionne à partir du sac à dos, mais sa fonctionnalité est limitée à un artefact par héros.

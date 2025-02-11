@@ -1,0 +1,1 @@
+﻿Diminue l'Attaque de toutes les créatures ennemies d'un montant dépendant de la Puissance Magique du lanceur. Si les cibles sont sous l'influence du sort Grâce de Puissance, les deux effets resteront actifs et la différence de puissance des lanceurs déterminera le résultat.

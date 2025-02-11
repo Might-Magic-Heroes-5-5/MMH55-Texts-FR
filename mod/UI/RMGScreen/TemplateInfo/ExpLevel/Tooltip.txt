@@ -1,0 +1,1 @@
+﻿This regulates how many upgrade buildings are placed into treasure zones, more is not better because other stuff like artifacts will be removed. 3 is the most balanced setting for any template. Do not use 1 and 5, read manual for more details. 

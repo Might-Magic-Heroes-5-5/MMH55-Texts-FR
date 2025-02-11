@@ -1,0 +1,1 @@
+﻿Classe : Barbare<br>Spécialisation : Lame du Khan<br><br><body_bright>Augmente de +1 l'Attaque et la Défense des Féroces, des Bourreaux et des Chefs de Clan de l'armée du Héros, et ce tous les deux Niveaux du Héros à partir du Niveau 1.<br><color_default>Débute avec Notions d'Attaque.

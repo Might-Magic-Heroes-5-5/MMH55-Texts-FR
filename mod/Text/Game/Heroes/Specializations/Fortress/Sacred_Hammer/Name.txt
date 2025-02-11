@@ -1,0 +1,1 @@
+﻿Classe : Mage des Runes<br>Spécialisation: Marteau Sacré<br><br><body_bright>A chaque fois qu'il lance un sort de l'Ecole de la Lumière sur une créature de son armée, le Héros bénéficie d'une chance de lancer également gratuitement sur elle le sort Grâce de Puissance. La probabilité est de 40%+Niveau*1%.<br><color_default>Débute avec Notions de Magie de la Lumière.

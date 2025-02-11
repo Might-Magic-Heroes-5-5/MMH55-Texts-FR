@@ -1,0 +1,1 @@
+﻿Les attaques normales contre les créatures de l'armée du Héros sont toujours malchanceuses. Les attaques chanceuses sont de niveau normal. Si l'ennemi dispose de l'Aptitude Chance de la Nature, les deux Aptitudes s'annulent. 

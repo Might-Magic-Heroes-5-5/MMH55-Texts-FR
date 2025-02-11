@@ -1,0 +1,1 @@
+﻿Classe : Chevalier<br>Spécialisation : Parangon<br><br><body_bright>le héros débute avec +2 d'Esprit et l'effet du sort Hâte est augmenté de 0,15% à chaque niveau de héros.<br><color_default>Débute avec Notions de Magie de la Lumière.

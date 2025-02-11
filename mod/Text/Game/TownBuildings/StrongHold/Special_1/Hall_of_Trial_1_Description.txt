@@ -1,0 +1,2 @@
+﻿Permet à un Chef Barbare d'accéder à des Cris de Guerre aléatoires du Premier Niveau et permet aux Shamanes et aux Sorcières d'obtenir un bonus de +2 Défense de manière permanente (effet NON cumulatif avec les autres cités) et d'apprendre spontanément des sorts du troisième Cercle.<br><br>
+<color=0099FF>Gouvernance<color_default><br>Accorde un bonus de +1 d'Esprit au Gouverneur de la Cité.

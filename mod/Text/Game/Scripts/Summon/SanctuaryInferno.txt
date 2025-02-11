@@ -1,0 +1,1 @@
+﻿<color=yellow>Vous avez sacrifié des réfugiés et des Démons se sont joints à vous avec délectation ! (+<value=num> <value=upgtype>s)

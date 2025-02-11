@@ -1,0 +1,1 @@
+﻿Attendre - Retarde le tour de cette unité de 50%. <hotkey=input_Combat_Wait>

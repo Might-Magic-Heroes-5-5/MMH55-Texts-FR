@@ -1,0 +1,10 @@
+﻿Bienvenue dans notre Casino, voulez-vous parier sur l'un de nos jeux de la Petite Roue ?
+
+-------------------------------------------------------------------------------
+
+OK = Parier <value=bet> d'or sur tous les nombres pairs (<value=chance>% de chance pour <value=reward> pièces d'or)
+Annuler = Partir
+
+-------------------------------------------------------------------------------
+
+Vous ne pouvez placer qu'une seule mise par Casino. Pour chaque Casino suivant que vous trouvez sur la carte de l'aventure, vous pouvez placer une mise plus importante, que vous ayez gagné ou perdu la mise précédente.

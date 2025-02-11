@@ -1,0 +1,1 @@
+﻿Accorde au Héros la capcité de faire intervenir la Mort elle-même en combat. Réduit de -2 le Moral et la Chance ainsi que de 10% l'Initiative de toutes les créatures ennemies. La durée de l'effet est de 2 + 0.25*(Niveau du Héros) tours.

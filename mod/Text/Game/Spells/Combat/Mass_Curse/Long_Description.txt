@@ -1,0 +1,1 @@
+﻿Abaisse les dégâts maximums de toutes les cibles ennemies jusqu'à leurs dégâts minimums. Si la cible est sous l'influence du sort Grâce de Force, elle sera purifiée. L'effet ne peut excéder 100%.

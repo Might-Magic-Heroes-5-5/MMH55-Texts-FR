@@ -1,0 +1,1 @@
+﻿Please do not forget to adjust the amount of players to the template name, the faction settings are ignored if the indication is not: (All)

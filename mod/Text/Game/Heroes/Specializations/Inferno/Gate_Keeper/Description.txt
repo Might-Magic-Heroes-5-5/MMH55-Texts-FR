@@ -1,0 +1,1 @@
+﻿Multiplanaire : Le nombre de créatures invoquées par Déphasage augmente de 0,33% par niveau du héros et tous les Démons Cornus, Tyrans Cornus et Voltigeurs Cornus de l'armée du héros pourront agir immédiatement lorsque le combat commencera.

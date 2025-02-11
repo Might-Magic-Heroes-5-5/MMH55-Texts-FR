@@ -1,0 +1,1 @@
+﻿Permet au Héros de connaître les éléments associés à chaque créature ennemie afin que les sorts de l'Ecole de la Destruction lancés par le Héros puissent infliger des dommages élémentaires additionnels. Les dommages additionnels augmentent de +5% pour chaque niveau de Focalisation et de +5% pour chaque Autel des Eléments construits.

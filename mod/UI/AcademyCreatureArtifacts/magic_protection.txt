@@ -1,0 +1,1 @@
+﻿+ <value=val>% réduction des dégâts magiques

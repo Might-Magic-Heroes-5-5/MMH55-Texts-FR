@@ -1,0 +1,1 @@
+﻿Enseigne le sort Mur de Flammes au Héros, et le contraint à invoquer uniquement des Elémentaires de Feu, peu importe les circonstances. Augmente de 40% le nombre d'Elémentaires invoqués.

@@ -1,0 +1,4 @@
+﻿Les terrains d'entraînement pour améliorer les créatures ont fermé définitivement, mais le quartier-maître est toujours prêt à vous donner un entraînement au combat avancé.
+ 
+OK = +2 en Attaque
+Annuler = +2 en Défense

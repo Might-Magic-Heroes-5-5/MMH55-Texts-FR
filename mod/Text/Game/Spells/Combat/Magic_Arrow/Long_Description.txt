@@ -1,0 +1,1 @@
+﻿Tire une flèche magique qui inflige des dégâts non élémentaires à la créature ennemie sélectionnée.

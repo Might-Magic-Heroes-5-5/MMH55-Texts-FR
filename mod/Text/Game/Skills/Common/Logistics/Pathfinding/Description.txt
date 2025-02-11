@@ -1,0 +1,1 @@
+﻿Réduit de 75% la pénalité de déplacement sur terrain accidenté.<br><color_default>Un terrain accidenté induit une pénalité de mouvement 25% en temps normal, ce qui implique une réduction à 6.25% grâce à la capacité Voyageur.

@@ -1,0 +1,2 @@
+﻿Le Hall des Héros améliore la compétence Entraînement et permet d'entraîner 13 créatures de plus chaque semaine.<br><br>
+<color=0099FF>Gouvernance<color_default><br>Accorde un bonus de +2 d'Attaque au Gouverneur de la Cité.

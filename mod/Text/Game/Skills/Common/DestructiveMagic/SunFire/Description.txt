@@ -1,0 +1,1 @@
+﻿Inflige 30 fois le Niveau du Héros en dommages de Feu à toutes les créatures ennemies qui tentent de lancer un sort.

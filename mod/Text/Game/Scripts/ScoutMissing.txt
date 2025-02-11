@@ -1,0 +1,7 @@
+﻿Il n'y a actuellement aucune créature native de niveau 1 dans votre armée pour permettre l'exploration de cet objet, voulez-vous attaquer les gardes sans reconnaissance ?
+-------------------------------------------------------------------------------
+
+OK = Attaque
+Annuler = Partir
+
+-------------------------------------------------------------------------------

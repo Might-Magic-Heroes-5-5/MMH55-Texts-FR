@@ -1,0 +1,1 @@
+﻿Classe : Sorcier<br>Spécialisation : Magie des Sept Cités<br><br><body_bright>Le héro débute avec Magie de l'Invocation et son Esprit augmente de +1 tous les 7 niveaux. De plus, toute l'expérience gagnée après les batailles est augmentée de 2% par niveau du héros.<br><color_default>Débute avec la capacité Maître de la Conjuration.

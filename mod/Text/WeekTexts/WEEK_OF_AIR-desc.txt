@@ -1,0 +1,1 @@
+﻿Les dégâts des sorts d'air sont augmentés de 10% pendant les combats. Le nombre d'élémentaires d'air invoqués augmente de 50%.

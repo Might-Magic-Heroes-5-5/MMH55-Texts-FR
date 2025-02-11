@@ -1,0 +1,2 @@
+﻿<color_default>Amélioration de l'Autel Runique de Niveau 2.<br><color_bright>Permet à un Héros de passage d'apprendre une Rune du Cinquième Cercle.<br><br>
+<color=0099FF>Gouvernance<color_default><br>Accorde un bonus de +3 d'Esprit au Gouverneur de la Cité.

@@ -1,0 +1,1 @@
+﻿Lorsque cette créature se fait attaquer au corps à corps, l'assaillant subit des dommages de Feu  à la hauteur de 40% de la puissance de son attaque.

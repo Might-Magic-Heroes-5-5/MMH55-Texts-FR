@@ -1,0 +1,1 @@
+﻿Réduit de <value=enchant>% l'Initiative de la cible. Durée : <value=duration> tour(s).

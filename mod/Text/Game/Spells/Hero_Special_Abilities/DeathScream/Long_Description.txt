@@ -1,0 +1,1 @@
+﻿Une capacité de combat spéciale qui permet d'invoquer la mort elle-même au combat. Toutes les créatures vivantes ennemies reçoivent -2 de Moral et de Chance et -10% d'Initiative. La durée de l'effet est de 2 + 0,1*(niveau du héros) tours. La valeur ATB du héros est réinitialisée à 0,15 après utilisation.

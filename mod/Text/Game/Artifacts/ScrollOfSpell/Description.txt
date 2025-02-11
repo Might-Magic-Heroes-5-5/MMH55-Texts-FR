@@ -1,0 +1,3 @@
+﻿+2 d'Esprit<br>
+Accorde le sort <value=spell_name>.
+<br><color_default>Les Barbares ne peuvent pas lancer le sort mais reçoivent le bonus de Connaissance.

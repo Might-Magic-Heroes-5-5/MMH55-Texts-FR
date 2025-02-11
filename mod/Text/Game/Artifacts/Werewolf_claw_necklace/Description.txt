@@ -1,0 +1,2 @@
+﻿Augmente de +1 les dégâts infligés par toutes les créatures de l'armée du porteur.<br><br><color=orange>
+Loups<color_default><br>Sacrifiez cet artefact dans un temple et il invoquera un peloton de Loups. La taille de ce groupe est égale à 6*nombre de semaines écoulées.

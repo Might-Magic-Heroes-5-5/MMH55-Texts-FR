@@ -1,0 +1,1 @@
+﻿Classe : Chevalier<br>Spécialisation : Chevaucheur des Vents<br><br><body_bright>La Puissance Magique du héros augmente de +1 tous les 7 niveaux et l'effet du sort Hâte est augmenté de 0,15% à chaque niveau du héros.<br><color_default>Débute avec Notions de Magie de la Lumière.

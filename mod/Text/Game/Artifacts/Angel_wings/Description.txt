@@ -1,0 +1,4 @@
+﻿+3 de Moral<br>
++3 de Chance<br>
+Accorde la capacité de voler et d'ignorer complètement les pénalités de terrain. Le coût de déplacement par tuile est réduit de 25 (sauf lors de déplacements sur route)<br><br><color=red>
+Lévitation<color_default><br>Les compétences Logistique et Orientation n'ont aucun effet.

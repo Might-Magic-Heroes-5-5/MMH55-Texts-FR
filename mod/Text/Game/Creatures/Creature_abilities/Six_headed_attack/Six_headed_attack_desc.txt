@@ -1,0 +1,1 @@
+﻿La créature attaque simultanément toutes les entités ennemies autour d'elle.

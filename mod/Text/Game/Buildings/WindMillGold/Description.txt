@@ -1,0 +1,1 @@
+﻿Fournit un peu d'une ressource au hasard, une fois par semaine.

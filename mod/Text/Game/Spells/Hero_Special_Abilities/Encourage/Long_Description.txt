@@ -1,0 +1,1 @@
+﻿Une capacité de combat spéciale pour encourager les troupes amies sur le champ de bataille, ce qui accélère leurs tours. La valeur ATB de la cible est augmentée de 0,5, plafonnée à 1. La valeur ATB du héros est réinitialisée à 0,33 après utilisation.

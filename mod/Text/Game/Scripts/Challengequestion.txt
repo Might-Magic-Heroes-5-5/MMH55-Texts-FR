@@ -1,0 +1,1 @@
+﻿Vous êtes le seul joueur humain en jeu. Souhaitez-vous relever un défi et que tous les joueurs IA fassent équipe contre vous ? (Toujours choisir "Annuler" si cette carte est un Scenario, une Campagne ou contient déjà sa propre configuration d'équipe)

@@ -1,0 +1,1 @@
+﻿Lorsque ce Héros rencontre un autre Héros allié, ce dernier reçoit un nombre de points d'Expérience égal à la différence entre les points d'Expérience qu'il a gagné et 10% des points d''Expérience du tuteur. (Ceci n'est donc applicable que si le Héros allié a moins de 10% de l'Expérience du tuteur).

@@ -1,0 +1,1 @@
+﻿Augmente les dégâts minimums de toutes les cibles amies jusqu'à leurs dégâts maximums. Si la cible est sous l'influence du sort Hex de Faiblesse, elle sera purifiée. L'effet ne peut excéder 100%.

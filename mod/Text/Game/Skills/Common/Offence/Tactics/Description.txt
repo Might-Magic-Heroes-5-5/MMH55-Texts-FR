@@ -1,0 +1,1 @@
+﻿Augmente la taille de la zone dans laquelle le Héros peut réorganiser ses créatures au début d'un combat, accordant ainsi une troisième ligne pour le déploiement. Si l'adversaire possède aussi la capacité Tactique, les effets sont annulés dans chaque camp.

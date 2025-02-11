@@ -1,0 +1,1 @@
+﻿Augmente de +1 la Vitesse des créatures de l'armée du Héros si la bataille se déroule en terrain boueux. Le Héros peut utiliser des artéfacts de résurrection sur les Non-Morts de son armée et leurs effets sont 10% plus puissants.<br><color_default>Les 10% supplémentaires sont cumulatifs avec les bonus offerts par la Tente de Soins.

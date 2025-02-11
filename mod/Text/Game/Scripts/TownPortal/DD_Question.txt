@@ -1,0 +1,7 @@
+﻿La Porte Dimensionnelle vous permettra de visiter n'importe quelle ville sans changer la position du héros. Si la ville possède une guilde de mage, le mana sera restauré immédiatement.
+-------------------------------------------------------------------------------
+
+OK = Visiter la ville et restaurer le mana
+Annuler = Restaurer seulement le Mana
+-------------------------------------------------------------------------------
+Pour mettre fin à la visite, éloignez-vous d'une tuile de la porte ou revisitez l'objet. La visite sera interrompue si le héros tente d'entrer dans la garnison de la ville ou si un héros ennemi s'approche dans un rayon de 8 tuiles autour du héros ou de la ville visitée.

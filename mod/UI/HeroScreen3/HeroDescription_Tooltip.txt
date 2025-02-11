@@ -1,0 +1,1 @@
+﻿La classe du Héros détermine ses capacités et ses attributs de départ. Le niveau du Héros influe sur ses attributs. Atteindre un niveau supérieur permet d'acquérir de nouvelles compétences et capacités et d'améliorer les attributs de votre Héros. 

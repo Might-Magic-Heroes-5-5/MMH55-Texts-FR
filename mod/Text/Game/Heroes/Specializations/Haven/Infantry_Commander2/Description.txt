@@ -1,0 +1,1 @@
+﻿Commandant d'Infanterie : Au début du combat, une troupe de Fantassins, Champions ou Vindicateurs amis utilise la capacité Ruée, doublant leur initiative pendant 3 tours (la troupe doit comporter plus d'une unité). Ces unités gagnent également +1 à leur attaque et à leur défense tous les deux niveaux du héros, à partir du premier niveau.

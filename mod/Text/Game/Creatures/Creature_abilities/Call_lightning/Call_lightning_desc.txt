@@ -1,0 +1,1 @@
+﻿Cette créature peut faire appel à la Foudre afin d'infliger des dommages magiques à une cible égaux à 40 *la taille du peloton. Peut être utilisé comme attaque à distance même lorsque le peloton est engagé en mêlée.

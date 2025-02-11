@@ -1,0 +1,3 @@
+﻿+5 de Puissance Magique<br>
+-1 de Moral<br><br><color=orange>
+Momies<color_default><br>Brûlez cet artefact dans un temple et il invoquera un peloton de momies. La taille de ce groupe est égale à 3*nombre de semaines écoulées.

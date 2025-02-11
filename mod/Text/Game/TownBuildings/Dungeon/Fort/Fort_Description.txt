@@ -1,0 +1,2 @@
+﻿Le Fortin ajoute des remparts autour d'une Cité.<br><br>
+<color=0099FF>Gouvernance<color_default><br>Accorde un bonus de +1 Défense au Gouverneur de la Cité.

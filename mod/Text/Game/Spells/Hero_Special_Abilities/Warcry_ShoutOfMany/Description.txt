@@ -1,0 +1,1 @@
+﻿L'ennemi ciblé reçoit des dégâts égaux au nombre de créatures dans l'armée du héros * 0,8 et toutes les créatures de la Forteresse dans l'armée du héros gagnent des points de rage supplémentaires. Les dégâts peuvent être réduits par la protection magique et peuvent être repoussés. Ils ne peuvent pas être reflétés par le Miroir Magique.

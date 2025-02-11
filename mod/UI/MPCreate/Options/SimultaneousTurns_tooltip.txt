@@ -1,0 +1,1 @@
+﻿Activez cette option pour autoriser les tours simultanés. Les tours simultanés ne seront pas interrompus lorsque deux héros sont à proximité l'un de l'autre. Attaquer un autre joueur pendant qu'il utilise l'interface de gestion d'une Cité engendrera une perte de points de mouvement.

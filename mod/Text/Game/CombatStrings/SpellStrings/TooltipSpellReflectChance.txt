@@ -1,0 +1,1 @@
+﻿<color_default><value=chance>% chance de renvoyer le sort ennemi

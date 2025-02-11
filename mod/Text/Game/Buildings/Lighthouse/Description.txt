@@ -1,0 +1,1 @@
+﻿Fournit +300 points de navigation à tous les héros du joueur qui le contrôle.

@@ -1,0 +1,1 @@
+﻿Augmente de +2 la Défense de la créature pour chaque case parcourue, et ce jusqu'au prochain tour.

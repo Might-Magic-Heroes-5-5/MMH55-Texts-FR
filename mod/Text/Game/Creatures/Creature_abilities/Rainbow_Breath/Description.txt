@@ -1,0 +1,1 @@
+﻿Cette créature peut attaquer au hasard toutes les cibles dans la direction choisie dans un rayon de 3 cases. Le nombre de cases touchées dépend de la Chance de la créature : 1+(aléatoire(1-10)+Chance)/2, arrondi à l'inférieur et limité à un maximum de 5. 

@@ -1,0 +1,1 @@
+﻿Invoque une ruche de guêpes à l'endroit désigné du champ de bataille. Un essaim de guêpes en surgira pour attaquer les créatures ennemies jusqu'à la fin du combat, ou jusqu'à la destruction de la ruche. La ruche n'attaque ni les Non-Morts, ni les Elémentaires, ni les unités mécaniques. La ruche empêche les tireurs ennemis adjacents de tirer.

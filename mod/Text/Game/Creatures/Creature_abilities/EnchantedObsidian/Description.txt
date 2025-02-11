@@ -1,0 +1,1 @@
+﻿Cette créature est totalement immunisée contre tous les types de Magie, sauf ceux infligeant des dommages physiques directs. Les sorts infligeant des dommages lui permettent de récupérer un nombre de points de vie équivalent à 25% des dommages normalement infligés, et sont susceptible de ressusciter des créatures tombées au combat.

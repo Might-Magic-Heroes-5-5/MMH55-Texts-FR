@@ -1,0 +1,2 @@
+﻿+5 en Attaque<br><br><color=orange>
+Manticores<color_default><br>Sacrifiez cet artefact dans un temple et il invoquera un peloton de Manticores. La taille de ce groupe est égale à 2*nombre de semaines écoulées.

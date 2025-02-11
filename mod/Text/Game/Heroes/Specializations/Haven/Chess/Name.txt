@@ -1,0 +1,1 @@
+﻿Classe : Chevalier<br>Spécialisation : Chevalier d'Echecs<br><br><body_bright>Le héros débute avec Notions d'Attaque, de Défense et de toutes les écoles de Magie.

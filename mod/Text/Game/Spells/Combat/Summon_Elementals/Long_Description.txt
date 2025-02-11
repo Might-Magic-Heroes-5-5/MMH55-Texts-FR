@@ -1,0 +1,1 @@
+﻿Invoque un peloton d'élémentaires pour défendre la cause du héros. Le type d'élémentaire invoqué dépend des capacités que le héros a appris en Magie de l'Invocation. Si aucune aptitude n'a été apprise, un élémentaire de Terre est invoqué par défaut.

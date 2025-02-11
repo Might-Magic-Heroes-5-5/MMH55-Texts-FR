@@ -1,0 +1,1 @@
+﻿Santé de chaque section : <value=health><br>Durée de vie : <value=duration> actions.

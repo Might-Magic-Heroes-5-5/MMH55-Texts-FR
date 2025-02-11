@@ -1,0 +1,4 @@
+﻿+1 Tir de Balliste<br>
++1 Tir de Catapulte<br>
++50% de Guérison par la Tente de Premiers Soins<br>
++4 en Attaque aux créatures de tir à distance si le Chariot de Munitions est présent.

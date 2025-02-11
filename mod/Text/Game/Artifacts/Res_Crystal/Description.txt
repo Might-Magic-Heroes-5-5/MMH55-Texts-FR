@@ -1,0 +1,8 @@
+﻿+1 en Attaque si équipe<br>
++1 en Défense si équipé<br>
++E/2 Cristaux par semaine<br><color_default>
+(E=Esprit du héros, par exemple 10 cristaux par semaine pour 10 d'Esprit)<br><br><color=orange>
+Cornucopia<color_default><br>
+Collectez un artefact pour chaque type de ressource (excepté l'Or) et visitez une Bibliothèque des Arcanes pour une récompense unique.<br><br><color=yellow>
+Sac à dos<color_default><br>
+Les ressources sont également gagnées lorsque l'artefact est dans le sac à dos, mais la fonctionnalité est limitée à un artefact par type de ressource et par héros.

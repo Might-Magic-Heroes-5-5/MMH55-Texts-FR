@@ -1,0 +1,5 @@
+﻿+2 de Puissance Magique<br>
++2 d'Esprit<br>
+-50% à la quantité d'élémentaires invoqués par les héros ennemis<br>
+-50% de PdV à Essaim, Phénix & Barrière de Lames invoqués par l'ennemi<br>
+Accorde la capacité Bannissement.

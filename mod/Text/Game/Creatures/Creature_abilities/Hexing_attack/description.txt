@@ -1,0 +1,1 @@
+﻿Après une attaque réussie, la cible est frappée par une malédiction : Hex de Faiblesse, Hex d'Epuisement, Hex de Contracture ou Hex de Vulnérabilité, avec un effet équivalent au niveau de maîtrise Avancé.

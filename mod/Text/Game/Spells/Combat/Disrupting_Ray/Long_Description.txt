@@ -1,0 +1,1 @@
+﻿Détruit l'armure du peloton ennemi ciblé, réduisant sa Défense et infligeant une petite quantité de dégâts magiques non élémentaires. Les dégâts sont égaux à 10 * Puissance Magique. Peut être lancé plusieurs fois sur le même peloton, mais sa Défense ne peut pas devenir inférieure à 0.

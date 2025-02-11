@@ -1,0 +1,1 @@
+﻿Gardien du Sépulcre : Le héros a +2 d'Attaque en permanence et au début de chaque semaine, des Dragons Squelettes, des Dragons Spectraux et des Dragons d'Ether supplémentaires seront disponibles pour le recrutement dans toutes les villes de Necropolis possédées. Le montant est égal à 0,06*niveau du héros. Il n'y a pas de créatures supplémentaires disponibles avant le niveau 9.

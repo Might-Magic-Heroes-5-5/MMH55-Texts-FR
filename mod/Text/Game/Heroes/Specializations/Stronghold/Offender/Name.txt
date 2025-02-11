@@ -1,0 +1,1 @@
+﻿Classe : Barbare<br>Spécialisation : Agresseur<br><br><body_bright>Augmente de 1% par Niveau du Héros les dommages qu'il inflige. Permet au Héros d'effectuer une attaque spéciale au tout début d'un combat.<br><color_default>Débute avec la capacité Arts Martiaux.

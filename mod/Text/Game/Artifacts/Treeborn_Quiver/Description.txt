@@ -1,0 +1,4 @@
+﻿Augmente de +4 l'Attaque des unités d'attaque à distance de l'armée du porteur et leur accorde des munitions illimitées.<br><br><color=purple>
+Rêve d'Archer<color_default><br>
++1 de Chance (2/2)<br>
+*Le bonus d'ensemble est appliqué après la fermeture de l'écran d'inventaire.

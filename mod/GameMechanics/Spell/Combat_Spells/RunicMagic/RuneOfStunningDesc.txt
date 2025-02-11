@@ -1,0 +1,1 @@
+﻿La créature sélectionnée aura une chance d'étourdir l'ennemi une fois en utilisant son attaque normale. Si l'étourdissement échoue, la rune restera active jusqu'à ce qu'elle réussisse. L'effet est le même que celui de la capacité Coup Brutal, mais fonctionne également à distance et est affecté par la capacité Guerrier Chanceux.

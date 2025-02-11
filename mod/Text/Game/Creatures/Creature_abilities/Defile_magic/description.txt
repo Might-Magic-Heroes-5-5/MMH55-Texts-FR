@@ -1,0 +1,2 @@
+﻿Cette créature a une chance de corrompre les sorts lancés par la cible, soit en les affaiblissant (40%), soit en augmentant leur coût (40%), soit en les faisant échouer (10%).
+La Corruption a une chance de se retourner contre son utilisateur (10 %), reproduisant ainsi un effet de sort négatif sur les malchanceux gobelins. Contre un héros, le % ci-dessus ne s'applique que si la taille de la trouoe de gobelins = (niveau du héros + niveau du sort) * 25. Sinon, ces chances sont augmentées ou diminuées de 5 % pour chaque tranche de 25 gobelins manquants ou supplémentaires.

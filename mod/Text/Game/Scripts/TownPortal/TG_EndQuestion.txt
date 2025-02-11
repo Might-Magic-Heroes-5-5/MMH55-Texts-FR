@@ -1,0 +1,11 @@
+﻿-----------------------------------------------------------------------------
+DEMISSION DU GOUVERNEUR
+-----------------------------------------------------------------------------
+
+Le Héros abandonnera ses fonctions en tant que gouverneur, récupérant ainsi ses points de mouvement en cas de déplacement au delà du périmètre de la ville mais au prix des bonus associés à la gouvernance.
+
+Amende (en cas de mandat trop court) : <value=fine>
+
+OK = Démissionner le gouverneur
+Annuler = Garder le gouverneur
+

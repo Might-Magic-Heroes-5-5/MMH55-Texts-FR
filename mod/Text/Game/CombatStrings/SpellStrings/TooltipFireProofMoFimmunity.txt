@@ -1,0 +1,1 @@
+﻿<color_default>+<value=proof>% résistance au feu<br>Immunité au Maître du Feu

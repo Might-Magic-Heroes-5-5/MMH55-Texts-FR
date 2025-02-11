@@ -1,0 +1,1 @@
+﻿Cette créature n'est pas vivante et son Moral est toujours neutre. Elle est immunisée contre le Poison, l'Aveuglement ou le Contrôle Mental, mais ne peut ni être ressuscitée, ni soignée par une Tente de Premiers Soins.

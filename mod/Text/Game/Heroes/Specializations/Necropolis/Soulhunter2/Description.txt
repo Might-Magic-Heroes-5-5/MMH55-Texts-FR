@@ -1,0 +1,1 @@
+﻿Marcheur Spirituel : Un groupe de Fantômes apparaît à chaque fois qu'un peloton de créatures ennemies est éliminé au combat pour la durée du combat. Le nombre de Fantômes invoqués est égal au Niveau du Héros.

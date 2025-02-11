@@ -1,0 +1,1 @@
+﻿Augmente de +2 la Puissance Magique du Héros de façon permanente et augmente à nouveau de +2 la Puissance Magique du Héros s'il possède la compétence Magie de l'Invocation. Double les dommages infligés par les sorts aux créatures invoquées ou déphasées.

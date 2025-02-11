@@ -1,0 +1,2 @@
+﻿<color_default>Amélioration des Noirs Pâturages.<br>
+<color_bright>Les Sinistres Pâturages vous permettent de recruter des Maraudeurs Sinistres ou des Maraudeurs Funestes

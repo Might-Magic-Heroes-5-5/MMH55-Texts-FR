@@ -1,0 +1,1 @@
+﻿Les spécialisations et compétences de départ du Héros, déterminées par sa classe.

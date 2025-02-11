@@ -1,0 +1,1 @@
+﻿Inflige des dommages de Terre à toutes les créatures situées dans la zone ciblée (forme de croix).

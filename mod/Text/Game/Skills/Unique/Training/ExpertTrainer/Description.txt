@@ -1,0 +1,1 @@
+﻿Accorde au Héros un bonus de +1 à l'Attaque et à la Défense immédiatement, puis à nouveau +1 à l'Attaque et à la Défense au niveau 20.

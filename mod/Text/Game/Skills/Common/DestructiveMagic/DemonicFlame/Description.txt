@@ -1,0 +1,1 @@
+﻿Augmente de +2 la Dégense du Héros et, à partir du Niveau 10, deux Défenseurs, Gardes-Bouclier ou Gardes-Pierre rejoindront l'armée du Héros chaque jour, à condition qu'un peloton de ces créatures soit déjà présente dans son armée.

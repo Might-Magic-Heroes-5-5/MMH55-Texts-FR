@@ -1,0 +1,15 @@
+﻿-------------------------------------------------------------------------------
+COMPTOIR
+-------------------------------------------------------------------------------
+
+Voulez-vous acheter des potions ou échanger des ressources ?
+
+OK = Acheter des potions
+Annuler = Échanger des ressources
+
+-------------------------------------------------------------------------------
+PRIX DES POTIONS
+-------------------------------------------------------------------------------
+
+Potion de Mana - 5000 Pièces d'Or
+Potion de Mouvement - 10000 Pièces d'Or

@@ -1,0 +1,1 @@
+﻿Accorde entre 10% et 35% de chances (en fonction de la Chance du Héros) pour qu'un peloton de renforts invoqué par Déphasage contienne deux fois plus d'unités que la normale.<br><color_default>La probabilité correspond à 10%+Chance*5%, avec un minimum de 10%. Déphasage massif double seulement les effets de la compétence Déphasage et non des bonus des capacités additionnelles.

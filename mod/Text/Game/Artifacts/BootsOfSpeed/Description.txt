@@ -1,0 +1,2 @@
+﻿+15% de Points de Mouvement sur terre<br><br>
+<color=red>Ajustement Serré<br><color_default>Le héros perd 500 points de mouvement lorsqu'il n'est pas équipé de cet artefact.

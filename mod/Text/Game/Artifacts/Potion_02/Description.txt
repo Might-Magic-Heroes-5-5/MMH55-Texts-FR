@@ -1,0 +1,1 @@
+﻿Accorde au héros 2 500 points de mouvement supplémentaires le lendemain (une fois que le héros les a épuisés, ils seront restaurés à 2 500).<br><br><color=blue>Consommable<color_default><br>La potion disparaîtra après utilisation, gardez-le dans le sac à dos jusqu'à ce que vous en ayez besoin.

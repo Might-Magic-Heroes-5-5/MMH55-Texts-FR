@@ -1,0 +1,1 @@
+﻿Accorde un bonus de +2 d'Esprit au Héros et lui permet de gagner un Niveau supplémentaire (bonus accordé une seule fois, mais de façon définitive).

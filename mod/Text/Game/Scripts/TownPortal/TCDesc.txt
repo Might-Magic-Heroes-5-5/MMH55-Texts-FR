@@ -1,0 +1,1 @@
+﻿Transforme une ville sous votre contrôle en une ville de la faction du Héros en échange de ressources (coût variant en fonction du niveau de la ville). Le Héros doit se trouver aux portes la ville. Les villes possédant un Capitole ne peuvent pas être converties. Tous les bâtiments de la ville sont convertis à l'exception des bâtiments uniques.S

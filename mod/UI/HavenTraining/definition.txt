@@ -1,0 +1,1 @@
+﻿<body>Les terrains d'entraînement vous permettent d'entraîner chaque semaine un nombre limité de troupes de niveau inférieur du Havre pour en faire des troupes de niveau supérieur.

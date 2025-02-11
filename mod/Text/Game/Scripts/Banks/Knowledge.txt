@@ -1,0 +1,1 @@
+﻿<color=yellow>Votre Esprit est augmentée de +<value=param> de façon permanente.

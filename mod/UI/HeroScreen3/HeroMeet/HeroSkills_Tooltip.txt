@@ -1,0 +1,1 @@
+﻿Les compétences du Héros (disponibles depuis le début ou acquises en cours de jeu). Elles affectent les capacités disponibles. 

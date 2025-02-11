@@ -1,0 +1,1 @@
+﻿Classe : Rôdeur<br>Spécialisation: Vive Lame<br><br><body_bright>Augmente de +0,5% par Niveau du Héros l'Initiative des créatures de son armée au début du combat..<br><color_default>Débute avec Logistique Pratique.

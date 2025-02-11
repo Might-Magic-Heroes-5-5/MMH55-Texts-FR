@@ -1,0 +1,1 @@
+﻿Classe : Seigneur Démon<br>Spécialisation : Briseur de Sorts<br><br><body_bright>Augmente de 5% la Résistance à la Magie des créatures de l'armée du Héros, + 1% par Niveau du Héros.<br><color_default>Débute avec la capacité Robustesse.

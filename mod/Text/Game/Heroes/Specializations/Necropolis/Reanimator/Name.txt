@@ -1,0 +1,1 @@
+﻿Classe : Nécromancien<br>Spécialisation : Réanimateur<br><br><body_bright>Augmente de +1 la Puissance Magique du héros lors du lancement du sort Réanimation et ce, tous les 3 Niveaux du Héros à partir du Niveau 1.<br><color_default>Débute avec Notions de Magie des Ténèbres.

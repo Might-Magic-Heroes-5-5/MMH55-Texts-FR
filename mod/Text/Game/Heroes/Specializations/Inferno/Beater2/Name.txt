@@ -1,0 +1,1 @@
+﻿Classe : Brigand<br>Spécialisation : Fonceur<br><br><body_bright>Augmente de 5% le nombre de Points de Mouvement du Héros, + 1% tous les quatre Niveaux du Héros. Réduit de 50% le coût en Mana du sort Téléportation.<br><color_default>Débute avec Notions de Magie des Ténèbres.

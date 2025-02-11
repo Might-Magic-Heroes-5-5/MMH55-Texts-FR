@@ -1,0 +1,1 @@
+﻿Le Nouveau Khan: Tous les Cris de Guerre voient leur coût diminuer de 1+niveau/10 et accordent un nombre supplémentaire de points de rage égal au niveau du héros.

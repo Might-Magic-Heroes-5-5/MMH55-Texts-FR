@@ -1,0 +1,1 @@
+﻿L'attaque à distance de la créature inflige des dommages à sa cible, mais également à toutes les créatures vivantes enveloppées par le nuage (3 x 3 cases). Toutes les créatures (sauf les non-morts) autour du point d'impact reçoivent 50% des dégâts. La cible reçoit les dégâts complets.

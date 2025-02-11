@@ -1,0 +1,1 @@
+﻿Classe : Dominateur<br>Spécialisation: Maîtresse Sanglante<br><br><body_bright>Toutes les Vierges de Sang, Furies Sanglantes et Poisons Sanglantes de l'armée du héros gagnent +1 en Attaque et en Défense tous les deux niveaux du héros, à partir du premier niveau.<br><color_default>Débute avec Commandement Avancé.

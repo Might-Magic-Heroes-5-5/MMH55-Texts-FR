@@ -1,0 +1,2 @@
+﻿<color_default>Amélioration du Colisée des Nuages.<br>
+<color_bright>Le Colisée des Tempêtes permet de recruter des Titans et des Colosses.

@@ -1,0 +1,3 @@
+﻿Cet objet n'a aucune propriété utile tant qu'il est cassé<br><br>
+<color=orange>Disque Lunaire de Shantiri<color_default><br>
+Apportez les 4 fragments du Disque Lunaire de Shantiri dans une bibliothèque des arcanes pour le faire réparer.

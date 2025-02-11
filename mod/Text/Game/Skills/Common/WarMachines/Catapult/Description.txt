@@ -1,0 +1,1 @@
+﻿Permet le contrôle manuel de la Catapulte et lui accorde un tir supplémentaire. Répare automatiquement une Charrette de Munitions détruite après un combat. Les points de Vie de base de la Catapulte et de la Charrette de Munitions sont aussi doublés.

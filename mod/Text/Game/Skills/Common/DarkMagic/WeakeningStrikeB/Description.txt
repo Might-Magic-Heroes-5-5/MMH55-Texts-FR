@@ -1,0 +1,1 @@
+﻿Lorsqu'il attaque, le Héros inflige automatiquement une malédiction qui réduit l'Attaque de sa cible.<br><color_default>L'effet est identique à celui du sort Hex de Contracture sans niveau de maîtrise et diminue donc l'Attaque de -0,4 * Puissance Magique du Héros.

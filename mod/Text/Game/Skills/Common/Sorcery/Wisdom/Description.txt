@@ -1,0 +1,1 @@
+﻿Permet au Héros d'apprendre les sorts du troisième cercle, et ce quelles que soient ses compétences dans les différentes écoles de magie.

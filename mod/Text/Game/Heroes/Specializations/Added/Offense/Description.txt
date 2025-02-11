@@ -1,0 +1,1 @@
+﻿Assaillant : Le héros débute avec +1 d'Attaque. La compétence augmente par la suite de +1 tous les 7 niveaux.

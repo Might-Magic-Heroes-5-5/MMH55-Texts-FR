@@ -1,0 +1,1 @@
+﻿Elu de Sylanna : Le héros commence avec +1 de Moral en permanence et au début de chaque semaine, des Dragons Verts, des Dragons d'Emeraude et des Dragons de Béryl supplémentaires seront disponibles pour le recrutement dans toutes les villes de type Sylve possédées. Le nombre est égal à 0,04*niveau du héros. Aucune créature supplémentaire n'est disponible avant le niveau 13.

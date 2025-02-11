@@ -1,0 +1,1 @@
+﻿Déçue, la sorcière hésite un moment, mais décide finalement de vous faire une nouvelle offre. Cette fois, elle demande <value=gold> or en échange de ses services. Voulez-vous apprendre <value=mastery> <value=skill> ?

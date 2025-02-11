@@ -1,0 +1,1 @@
+﻿Inflige des dommages de Foudre à plusieurs créatures adjacentes (4 maximum), en commençant par celle sélectionnée. Chaque créature se voit infliger la moitié des dommages reçus par la précédente. La chaîne est susceptible d'affecter les créatures alliées

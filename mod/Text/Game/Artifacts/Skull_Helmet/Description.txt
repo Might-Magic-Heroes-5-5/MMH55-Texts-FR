@@ -1,0 +1,6 @@
+﻿+5 d'Esprit<br>
+-1 de Moral<br><br><color=purple>
+Etreinte de la Mort<color_default><br>
++6 de Puissance Magique (3/6)<br>
++12 de Puissance Magique (6/6)<br>
+*Le bonus d'ensemble est appliqué après la fermeture de l'écran d'inventaire.

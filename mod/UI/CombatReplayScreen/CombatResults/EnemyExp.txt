@@ -1,0 +1,1 @@
+﻿<left>Le Héros ennemi a gagné <value=exp> XP.

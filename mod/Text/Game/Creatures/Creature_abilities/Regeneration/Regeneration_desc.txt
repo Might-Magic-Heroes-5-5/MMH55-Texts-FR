@@ -1,0 +1,1 @@
+﻿Cette créature restaure sa santé d'un montant égal aux points de vie de 15% de la taille de la pile. Le montant est calculé par combat et non par tour. Une fois le montant total utilisé, la créature cesse de se régénérer.

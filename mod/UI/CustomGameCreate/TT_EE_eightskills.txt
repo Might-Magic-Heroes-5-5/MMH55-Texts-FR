@@ -1,0 +1,1 @@
+﻿Permet de choisir entre 6 ou 8 emplacements pour les compétences secondaires de vos Héros.

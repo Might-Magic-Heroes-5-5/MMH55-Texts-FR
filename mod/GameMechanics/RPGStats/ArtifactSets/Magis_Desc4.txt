@@ -1,0 +1,1 @@
+﻿Double le Mana et la Puissance Magique de tous les lanceurs de sorts de l'armée du héros. Le héros recule de 10% sur la barre d'ATB lorsqu'il lance un sort. Les Brigands, les Magiciens et les Conjureurs voient leur Puissance Magique augmentée de +4.

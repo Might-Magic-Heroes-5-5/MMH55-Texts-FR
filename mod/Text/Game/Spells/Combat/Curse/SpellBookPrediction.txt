@@ -1,0 +1,1 @@
+﻿Réduit de  <value=enchant>% les dommages infligés, pour un minimun de <value=duration> tours.

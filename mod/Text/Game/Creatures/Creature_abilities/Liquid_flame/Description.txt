@@ -1,0 +1,1 @@
+﻿Lorsqu'elle attaque, cette créature inflige des dommages à sa cible, mais également à toutes les unités situées directement derrière cette dernière et laisse un mur de feu sur les deux tuiles dans la direction de l'attaque. Le mur de feu inflige un nombre de dégâts de feu égal à la taille du peloton*10 à toutes les unités (amies ou ennemies) pendant 2 tours.

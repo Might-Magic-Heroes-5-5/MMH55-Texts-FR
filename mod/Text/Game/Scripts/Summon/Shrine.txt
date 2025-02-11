@@ -1,0 +1,1 @@
+﻿<color=green>Alors que votre Gemme se dissout <value=num> <value=upgtype>s sont invoqués !

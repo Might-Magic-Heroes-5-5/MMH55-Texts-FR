@@ -1,0 +1,1 @@
+﻿Cette spécialisation permet au héros de stocker <value=extra_mana> points de Mana au dessus de la limite maximale normale.

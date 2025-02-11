@@ -1,0 +1,1 @@
+﻿La créature mord sa cible principale en lui infligeant la totalité des dégâts et envoie une vague de feu de 3 jets qui inflige 75% de dégâts aux autres adversaires dans un rayon de 2 carreaux.

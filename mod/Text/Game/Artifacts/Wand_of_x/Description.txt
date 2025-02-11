@@ -1,0 +1,3 @@
+﻿+2 de Puissance Magique<br>
+Cette baguette peut-être utilisée pour lancer le sort <value=spell_name> un certain nombre de fois, avec un effet équivalent au niveau de maîtrise Pratique (ou plus si le niveau de maîtrise du Héros est supérieur). Elle peut être rechargée dans une Guilde des Mages. (charges <value=charges_cur>/<value=charges_max>)
+<br><color_default>Les Barbares ne peuvent pas lancer le sort mais reçoivent le bonus de puissance des sorts.

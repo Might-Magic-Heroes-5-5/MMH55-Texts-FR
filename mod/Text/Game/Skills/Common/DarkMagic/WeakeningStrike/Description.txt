@@ -1,0 +1,1 @@
+﻿Lorsqu'il attaque, le Héros inflige automatiquement le sort Hex de Contracture à sa cible, à son niveau de maîtrise actuel. Le sort Hex de Contracture est aussi ajouté au livre de sort du Héros.

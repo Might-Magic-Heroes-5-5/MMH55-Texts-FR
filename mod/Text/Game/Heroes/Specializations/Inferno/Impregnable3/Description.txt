@@ -1,0 +1,1 @@
+﻿Briseur de Sorts : Augmente de 5% la Résistance à la Magie des créatures de l'armée du Héros, + 1% par Niveau du Héros.

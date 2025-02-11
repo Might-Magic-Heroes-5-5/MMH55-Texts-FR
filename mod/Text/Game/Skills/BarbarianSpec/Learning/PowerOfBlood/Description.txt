@@ -1,0 +1,1 @@
+﻿Augmente de 50% le nombre de points de Rage gagnés par les créatures de l'armée du Héros, mais augmente également de 50% les éventuelles pertes de points de Rage.

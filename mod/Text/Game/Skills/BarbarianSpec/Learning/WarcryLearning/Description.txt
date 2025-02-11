@@ -1,0 +1,1 @@
+﻿Permet au Héros d'apprendre les Cris de Guerre des autres Héros, même s'il ne remplit par les pré-requis, et d'enseigner ses Cris de Guerre aux Héros remplissant les bons pré-requis.

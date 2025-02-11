@@ -1,0 +1,7 @@
+﻿Il n'est pas possible d'envoyer des éclaireurs, voulez-vous attaquer les gardes ?
+-------------------------------------------------------------------------------
+
+OK = Attaque
+Annuler = Partir
+
+-------------------------------------------------------------------------------

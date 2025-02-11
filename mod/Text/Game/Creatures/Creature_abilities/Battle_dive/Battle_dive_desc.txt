@@ -1,0 +1,1 @@
+﻿La Créature effectue une attaque aérienne retardée sur une tuile sélectionnée sur le champ de bataille infligeant 50% de dégâts en plus que d'habitude, même si la tuile est occupée par une unité amie. Suite à l'attaque, la créature retourne à un endroit choisi au hasard sur le terrain (capacité activée).

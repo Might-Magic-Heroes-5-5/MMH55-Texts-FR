@@ -1,0 +1,1 @@
+﻿Accorde un tir supplémentaire aux Catapultes de l'armée du Héros (pour un total de 3 tirs consécutifs si ce dernier est doté de la capacité Catapulte). Le Héros bénéficie aussi du bonus d'Attaque accordé par la Charrette de Munition aux unités à distance.

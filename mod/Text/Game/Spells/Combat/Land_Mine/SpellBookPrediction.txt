@@ -1,0 +1,1 @@
+﻿Pose <value=duration> mines infligeant <value=damage> points de dommages.

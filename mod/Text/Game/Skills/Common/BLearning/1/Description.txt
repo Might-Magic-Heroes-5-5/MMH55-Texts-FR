@@ -1,0 +1,1 @@
+﻿Augmente de +1 l'une des Caractéristiques du Héros, et ce tous les cinq Niveaux du Héros à partir du Niveau 1 (les Niveaux déjà acquis compris). Augmente également de 5% ses gains d'Expérience.

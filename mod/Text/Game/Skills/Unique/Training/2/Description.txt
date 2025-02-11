@@ -1,0 +1,1 @@
+﻿Les dommages infligés par les unités du Héros lors d'une riposte sont augmentés de 17.5%.

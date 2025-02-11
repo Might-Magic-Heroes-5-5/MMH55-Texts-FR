@@ -1,0 +1,1 @@
+﻿Désolé, mais je vois que vous n'avez pas <value=price> Pièces d'Or pour effacer <value=skill_name> de votre mémoire !

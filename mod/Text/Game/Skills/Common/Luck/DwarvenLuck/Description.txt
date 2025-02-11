@@ -1,0 +1,1 @@
+﻿Double les chances de résister aux sorts de l'ennemi. Chance de Bourrin fonctionne comme Guerrier Chanceux en offrant au peloton une seconde chance de résister au sort avec la même probabilité.

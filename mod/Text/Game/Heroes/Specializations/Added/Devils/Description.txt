@@ -1,0 +1,1 @@
+﻿Gardien des Enfers de Sheogh : Le héros débute avec +1 de Moral en permanence et au début de chaque semaine, des Diables, Archidiables et Métadiables supplémentaires seront disponibles pour le recrutement dans toutes les villes Inferno possédées. Le nombre est égal à 0,04*niveau du héros. Aucune créature supplémentaire n'est disponible avant le niveau 13.

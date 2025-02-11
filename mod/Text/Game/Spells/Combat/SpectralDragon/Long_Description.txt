@@ -1,0 +1,1 @@
+﻿Invoque un Dragon Spectral sur le champ de bataille pour combattre aux côtés du héros. Un seul dragon peut être invoqué à la fois. L'Attaque, la Défense, les Points de Vie, l'Initiative et la Vitesse du dragon dépendent de la Puissance Magique et du niveau du lanceur. La valeur ATB du héros est remise à 0,33 après utilisation.

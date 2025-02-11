@@ -1,0 +1,1 @@
+﻿Fournit des informations sur les évènements de la région.

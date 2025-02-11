@@ -1,0 +1,1 @@
+﻿Classe : Chevalier<br>Spécialisation : Bourlingueur<br><br><body_bright>Augmente de 1% le nombre de Points de Mouvement du Héros, et ce tous les deux Niveaux du Héros. Le héros gagne également +250 d'expérience après chaque combat.<br><color_default>Débute avec Défense Pratique.

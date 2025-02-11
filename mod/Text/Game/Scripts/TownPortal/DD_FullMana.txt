@@ -1,0 +1,1 @@
+﻿<color=red>Le niveau de mana du héros est à son maximum

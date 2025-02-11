@@ -1,0 +1,7 @@
+﻿+1 de Puissance Magique<br>
++1 d'Esprit<br>
+Accorde la possibilité d'apprendre n'importe quel sort de niveau 4 si le héros possède la capacité Omniscience des Arcanes.<color_default><br>
++2 de Puissance Magique si le héros possède Apprentissage Avancé<br>
++2 d'Esprit si le héros possède Apprentissage Avancé<br>
++3 de Puissance Magique si le héros possède Apprentissage Expert<br>
++3 d'Esprit si le héros possède Apprentissage Expert

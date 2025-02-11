@@ -1,0 +1,1 @@
+﻿<color=yellow>Vous avez déchiffré l'Obélisque qui indique l'emplacement d'une Crypte depuis longtemps oubliée. Souhaitez-vous ouvrir un portail dimensionnel vers cette Crypte pour y piller les trésors ?<br><br>(Menace: Eprouvant)<br><br>OK = Acceptez<br>Annuler = Refusez<br><br>Si vous refusez, ce défi pourra être accepté plus tard en revenant à l'Obélisque.

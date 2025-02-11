@@ -1,0 +1,1 @@
+﻿Augmente de +2 la Vitesse de tous les Golems de l'armée du Héros. Les Golems de Fer et d'Acier ont aussi leur Initiative augmentée de +2. De plus, au Niveau 10, un Golem de Fer, un Golem d'Acier ou un Golem Magnétique rejoindra l'armée du Héros chaque jour, à condition qu'un peloton de ces créatures soit déjà présente dans son armée.

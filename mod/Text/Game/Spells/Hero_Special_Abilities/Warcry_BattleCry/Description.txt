@@ -1,0 +1,1 @@
+﻿Le héros inspire un peloton amical d'orques à charger en avant. Pendant un tour, le peloton ciblé bénéficie d'une Vitesse de +3 et d'une Attaque accrue (égale à 1 + Niveau/5). Il accorde également une petite quantité de Rage à toutes les créatures de la Forteresse dans l'armée.

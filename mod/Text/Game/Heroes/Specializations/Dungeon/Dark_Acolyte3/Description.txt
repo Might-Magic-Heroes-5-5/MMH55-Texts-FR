@@ -1,0 +1,1 @@
+﻿Mystique : Le héros débute avec +1 de Chance et perd moins de Points de Mouvement lorsqu'il utilise la capacité Rituel des Arcanes. Le coût de mouvement est réduit de 2 par point de mana récupéré.

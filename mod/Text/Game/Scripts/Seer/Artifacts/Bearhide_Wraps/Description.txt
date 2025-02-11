@@ -1,0 +1,1 @@
+﻿Augmente de +1 la Défense du porteur et accorde 25% de Résistance à la Glace à son armée.

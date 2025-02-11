@@ -1,0 +1,2 @@
+﻿<color_default>Amélioration de la Chambre de la Colère.<br>
+<color_bright>La Chambre de la Rage vous permet de recruter des Bourreaux et des Chefs de Clan.

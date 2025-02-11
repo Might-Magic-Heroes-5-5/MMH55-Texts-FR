@@ -1,0 +1,1 @@
+﻿Maître de Chasse : Augmente de +1 l'Attaque et la Défense des Chasseurs, des Maîtres Chasseurs et des Maîtres Archers de l'armée du Héros, et ce tous les deux Niveaux du Héros à partir du Niveau 1.

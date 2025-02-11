@@ -1,0 +1,1 @@
+﻿Permet au Héros d'encourager ses troupes au combat, afin que leur tour de jeu arrive plus vite. Le prochain tour de jeu de la cible est alors avancé de 33%, pour un maximum de 100%.

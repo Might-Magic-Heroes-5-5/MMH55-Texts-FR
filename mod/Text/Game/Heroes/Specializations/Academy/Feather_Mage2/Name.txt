@@ -1,0 +1,1 @@
+﻿Classe : Seigneur Démon<br>Spécialisation: Destruction de Mana.<br><br><body_bright>La fréquence des attaques du Héros en combat augmente en fonction de son Niveau. L'initiative du héros deviendra 10,75 + 0,025 * niveau du héros (au lieu de 10).<br><color_default>Débute avec Combat Avancé.

@@ -1,0 +1,1 @@
+﻿La caractéristique d'Esprit augmente la quantité maximum du Mana disponible pour le Héros à hauteur de 10 * Esprit. Elle améliore aussi l'efficacité de certains artéfacts, de quelques capacités du Héros et de la Balliste.

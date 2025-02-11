@@ -1,0 +1,1 @@
+﻿Poing du Khan: Une Troupe de Guerriers rejoint l'armée du héros au début du combat, le nombre est égal à 25% des Guerriers, Vétérans et Bellicistes que le héros possède déjà dans son armée. Augmente également de +1 l'Attaque et la Défense des Guerriers, des Vétérans et des Bellicistes de l'armée du Héros, et ce tous les deux Niveaux du Héros à partir du Niveau 1.

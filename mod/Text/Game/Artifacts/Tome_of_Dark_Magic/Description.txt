@@ -1,0 +1,3 @@
+﻿Permet d'utiliser tous les sorts de Magie des Ténèbres sans posséder de Compétence pour cette Ecole.<br><br><color=orange>
+Quête<color_default><br>
+Apportez les 4 Tomes de Magie à un Mentor du Souvenir pour obtenir une récompense unique !

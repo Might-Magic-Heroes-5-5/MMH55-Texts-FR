@@ -1,0 +1,1 @@
+﻿Capacité spéciale de combat. L'effet de chaque sort suivant frappant le peloton Marqué est doublé. De plus, chaque sort frappant une autre créature affectera également le peloton Marqué s'il y a assez de mana pour être relancé.

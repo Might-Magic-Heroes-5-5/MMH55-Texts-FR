@@ -1,0 +1,3 @@
+﻿+2 Esprit<br>
++2 de Chance<br><br><color=orange>
+Aigles Arcaniques<color_default><br>Brûlez cet artefact dans un temple et il invoquera un peloton d'Aigles arcaniques. La taille du groupe est égale à 2*nombre de semaines écoulées.

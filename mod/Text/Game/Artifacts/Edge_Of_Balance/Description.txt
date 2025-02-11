@@ -1,0 +1,5 @@
+﻿+5 en Attaque aux races 'Bénéfiques'<br>
+-1 en Défense aux races 'Bénéfiques'<br>
++5 en Défense aux races 'Maléfiques'<br>
+-1 en Attaque aux races 'Maléfiques'<br><color_default>
+La Guilde des Mages révèle l'alignement, La Forteresse est considérée comme 'Maléfique'.

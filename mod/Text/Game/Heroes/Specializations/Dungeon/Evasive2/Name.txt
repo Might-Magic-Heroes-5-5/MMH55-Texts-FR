@@ -1,0 +1,1 @@
+﻿Classe : Démoniste<br>Spécialisation : Ombre Dansante<br><br><body_bright>Réduit les dommages infligés par les attaques à distance, et ce en fonction du Niveau du Héros. La réduction est de 15% +0,5% par Niveau du héros.<br><color_default>Débute avec Notions de Magie de la Destruction.

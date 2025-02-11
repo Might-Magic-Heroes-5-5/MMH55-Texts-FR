@@ -1,0 +1,1 @@
+﻿Gèle la cible, lui infligeant immédiatement des dégâts de glace et la rendant beaucoup plus vulnérable aux dégâts physiques pendant un certain temps en raison des engelures.<br><color_default>La chance n'a aucun effet sur ce sort.

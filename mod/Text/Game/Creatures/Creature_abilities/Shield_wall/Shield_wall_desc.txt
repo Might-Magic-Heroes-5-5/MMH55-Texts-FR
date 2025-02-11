@@ -1,0 +1,1 @@
+﻿Les dégâts subis par cette créature suite à une attaque ennemie sont réduits de 10% pour chaque tuile que l'attaquant a parcourue pour toucher. La réduction des dégâts est plafonnée à 80%.

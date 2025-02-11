@@ -1,0 +1,1 @@
+﻿Enseigne le sort Bouclier des Arcanes au Héros, et augmente de +10 sa Puissance Magique lorsqu'il le lance.

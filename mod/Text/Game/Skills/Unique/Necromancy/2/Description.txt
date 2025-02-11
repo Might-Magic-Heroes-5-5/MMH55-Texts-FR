@@ -1,0 +1,1 @@
+﻿Permet au Nécromancien de ressusciter 15% des créatures ennemies sous la forme de troupes Non-Mortes sous son contrôle (le nombre de créatures pouvant être ressuscitées chaque semaine est limité). Augmente le nombre de points de Flux Noir.

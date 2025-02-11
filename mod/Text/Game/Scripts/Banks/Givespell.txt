@@ -1,0 +1,1 @@
+﻿<color=yellow>Vous avez déchiffré la formule du sort <value=name>.

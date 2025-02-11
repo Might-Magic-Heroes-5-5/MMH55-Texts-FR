@@ -1,0 +1,1 @@
+﻿L'entraînement est impossible (la limite est atteinte ou les ressources sont insuffisantes).

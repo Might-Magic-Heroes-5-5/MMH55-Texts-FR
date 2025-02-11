@@ -1,0 +1,4 @@
+﻿+4 de Puissance Magique<br><br>
+Un peloton d'unités de rang 6 de la faction du héros sera ressuscité à la fin de chaque combat. Le nombre de créatures ressuscitées est de 30% + 1%E de toutes les pertes ou alternativement 300 + 10*E de tous les points de vie perdus (selon ce qui entraîne le plus de créatures ressuscitées). La Résurrection requiert 16 Mana.<color_default> E = Esprit du héros et le montant est arrondi à l'inférieur. Les créatures mortes-vivantes, mécaniques et élémentaires ne peuvent pas être ressuscitées.
+<br><color=purple>Vêtements du Saint<color_default><br>
+-2 Mana au coût de Résurrection par artefact (3/7)

@@ -1,0 +1,1 @@
+﻿Le héros obtient une capacité de combat spéciale qui annule tous les effets du prochain sort lancé par l'ennemi, mais draine le double du coût en mana de ce sort.

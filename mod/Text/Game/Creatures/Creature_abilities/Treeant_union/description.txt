@@ -1,0 +1,1 @@
+﻿Une fois par combat, cette créature est capable de soigner et de ressusciter les Tréants, tout en bénéficiant des mêmes services de leur part. (Capacité activable) Le peloton cible est guéri de 5 Points de Vie par Adryade, et le peloton est d'Adryades est guéri de 30 Points de Vie par créature du peloton cible en retour.

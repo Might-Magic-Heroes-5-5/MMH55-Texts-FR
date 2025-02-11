@@ -1,0 +1,1 @@
+﻿Les dégâts magiques sont augmentés de 10% pendant les combats.

@@ -1,0 +1,1 @@
+﻿Permet au Héros de faire fondre les artéfacts équipant une créature de son armée afin de la guérir et la ressusciter en combat.<br><color_default>Le nombre de Points de Vie récupérés vaut 10 * Niveau du Héros * (1 + Effets) où Effets est le nombre d'effets façonnés sur l'artéfact consumé. Le Héros ne dépense que 25% de son tour pour fondre un artéfact.

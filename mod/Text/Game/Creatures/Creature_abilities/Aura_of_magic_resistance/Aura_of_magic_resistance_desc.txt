@@ -1,0 +1,1 @@
+﻿Pour toutes les unités amies situées sur des tuiles adjacentes à la créature, la résistance magique augmente de 24 %

@@ -1,0 +1,1 @@
+﻿Inflige des dommages équivalant au Niveau du Héros * 10 à toutes les créatures ennemies non-volantes qui tentent de se déplacer.<br><color_default>Attention, les dommages ne sont pas multipliés par le nombre de cases parcourues sur le champ de bataille. 

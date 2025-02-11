@@ -1,0 +1,2 @@
+﻿+12 en Défense<br>
+Augmente de +6 le nombre maximal de points de vie des créatures de l'armée du porteur.

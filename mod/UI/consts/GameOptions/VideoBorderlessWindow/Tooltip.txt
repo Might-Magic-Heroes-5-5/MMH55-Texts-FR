@@ -1,0 +1,1 @@
+﻿Supprime la bordure de l'écran du jeu en mode fenêtré.

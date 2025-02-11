@@ -1,0 +1,1 @@
+﻿Lorsqu'elle attaque à courte portée (à moins de 5 cases de la cible), cette créature inflige des dommages plus importants car la Défense de la cible n'est alors pas prise en compte.

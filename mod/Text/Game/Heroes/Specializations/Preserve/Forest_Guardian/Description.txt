@@ -1,0 +1,1 @@
+﻿Epée de Sylanna : TLe héros commence avec Magie de l'Invocation (une compétence que les Vengeurs ne peuvent normalement pas apprendre) et toutes les créatures sylvestres sous le commandement du héros infligent +0,5% de dégâts supplémentaires à leur ennemi intime pour chaque niveau d'expérience.

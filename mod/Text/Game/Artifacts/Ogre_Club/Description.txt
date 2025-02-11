@@ -1,0 +1,3 @@
+﻿+7 en Attaque<br>
+-5% d'Initiative à toutes les créatures de l'armée du porteur.<br><br><color_default>
+Les valeurs d'Initiative ne sont en pratique pas arrondies à la hausse ou à la baisse par des % de modificateurs, donc 10 d'initiative peut donner lieu à 9,5 d'Initiative réelle au combat.

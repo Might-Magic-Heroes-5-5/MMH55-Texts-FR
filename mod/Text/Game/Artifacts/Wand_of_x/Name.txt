@@ -1,0 +1,1 @@
+﻿Baguette : <value=spell_name>

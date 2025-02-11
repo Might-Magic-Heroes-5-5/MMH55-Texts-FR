@@ -1,0 +1,1 @@
+﻿Chaque fois qu'un effet de Moral positif est déclenché avec l'une des créatures de l'armée du héros, ce dernier avance de 5 % sur la barre d'ATB (si l'effet de Moral est négatif, le héros recule). Les attaques des Chevaliers (y compris Contre-Offensive) diminuent le moral de l'ennemi de -2. Les Paladins voient leur défense augmentée de +4.

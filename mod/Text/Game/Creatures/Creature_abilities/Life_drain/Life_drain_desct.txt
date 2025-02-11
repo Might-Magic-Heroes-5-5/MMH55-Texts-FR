@@ -1,0 +1,1 @@
+﻿Lorsqu'elle attaque, cette créature est capable de drainer les points de vie de sa cible afin de restaurer sa santé ou de ressusciter certains de ses congénères. Les points de vie drainés représentent 30% des dommages infligés.

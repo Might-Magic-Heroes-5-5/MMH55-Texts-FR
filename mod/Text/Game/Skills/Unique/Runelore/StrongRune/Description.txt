@@ -1,0 +1,1 @@
+﻿Permet d'activer une seconde fois la même Rune, au triple de son coût initial en ressources.

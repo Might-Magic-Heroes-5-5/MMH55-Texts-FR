@@ -1,0 +1,1 @@
+﻿Invoque un essaim d'insectes qui infligent des dégâts magiques à la créature ennemie sélectionnée. La créature sera distraite et sa valeur ATB réduite de 0,2,0,25,0,3 ou 0,4, selon le niveau de maîtrise<br><color_default>Le sort ne fonctionne pas sur les unités mortes-vivantes, élémentaires et mécaniques.

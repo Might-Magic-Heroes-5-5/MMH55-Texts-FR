@@ -1,0 +1,7 @@
+﻿+1 en Attaque<br>
++50% de chance de piller une ressource aélatoire après chaque bataille<br>
+<br><color=purple>
+Tenue de Pirate<color_default><br>
++6 en Attaque (3/6)<br>
++12 en Attaque (6/6)<br>
+*Le bonus d'ensemble est appliqué après la fermeture de l'écran d'inventaire.

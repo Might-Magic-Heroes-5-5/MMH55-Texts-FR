@@ -1,0 +1,1 @@
+﻿Classe : Druide<br>Spécialisation : Sage<br><br><body_bright>La Puissance Magique du héros augmente de +1 tous les 6 niveaux.<br><color_default>Débute avec Notions de Magie de la Destruction.

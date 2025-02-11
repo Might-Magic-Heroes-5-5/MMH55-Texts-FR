@@ -1,0 +1,1 @@
+﻿Augmente de +2 la Défense du Héros, et à partir du niveau 10, un Guerrier, Vétéran ou Belliciste rejoindra l'armée du Héros chaque jour, à condition qu'un peloton de ces créatures soit déjà présente dans son armée.

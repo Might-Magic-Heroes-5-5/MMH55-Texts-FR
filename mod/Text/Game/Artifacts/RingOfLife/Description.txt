@@ -1,0 +1,1 @@
+﻿Augmente de +2 le nombre maximal de points de vie des créatures de l'armée du porteur.

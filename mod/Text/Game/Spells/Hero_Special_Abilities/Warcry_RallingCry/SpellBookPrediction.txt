@@ -1,0 +1,1 @@
+﻿Augmente de +<value=enchant> le Moral.<br>Augmente de <value=army_rp> points la Rage de l'armée du Héros.

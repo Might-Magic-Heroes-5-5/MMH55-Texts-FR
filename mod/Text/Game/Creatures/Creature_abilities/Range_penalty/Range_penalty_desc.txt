@@ -1,0 +1,1 @@
+﻿Lorsqu'elle attaque à distance, cette créature n'inflige que la moitié des dommages normaux, mais elle ne subit pas de pénalité au corps à corps.

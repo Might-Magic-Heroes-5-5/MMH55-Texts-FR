@@ -1,0 +1,7 @@
+﻿-25% de coût de  Mana pour tous les sorts<br><br><color=purple>
+Grande Tenue d'Apparat de Sar-Issus<color_default><br>
++50% de Puissance Magique & Mana aux créatures amies (2/4)<br>
++100% de Puissance Magique & Mana aux créatures amies (4/4)<br>
+*Le bonus d'ensemble est appliqué après la fermeture de l'écran d'inventaire.<br><br><color=orange>
+Quête<color_default><br>
+Apportez les 4 Grandes Tenue d'Apparats de Sar-Issus à un astrologue et recevez une récompense unique.

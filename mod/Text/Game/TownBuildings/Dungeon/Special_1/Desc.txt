@@ -1,0 +1,2 @@
+﻿Améliore la capacité Chaîne Elémentaire. Permet de connaître les éléments associés à vos créatures afin de planifier des attaques plus puissantes. Une créature associée à un élément opposé à celui associé à son adversaire lui infligera plus de dommages.<br><br>
+<color=0099FF>Gouvernance<color_default><br>Accorde un bonus de +1 d'Attaque au Gouverneur de la Cité.

@@ -1,0 +1,1 @@
+﻿Téléporte la créature alliée ciblée à un autre endroit du champ de bataille. Seul un héros possédant la compétence Magie de la Lumière Avancée est capable de téléporter une créature à travers les remparts d'une Cité.

@@ -1,0 +1,1 @@
+﻿La Forge des Arcanes vous permet de créer des artéfacts pour les créatures de l'Académie. Seuls les Héros avec la compétence Artisanat peuvent l'utiliser.

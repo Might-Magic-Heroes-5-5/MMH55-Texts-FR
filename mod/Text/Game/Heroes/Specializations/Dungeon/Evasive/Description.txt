@@ -1,0 +1,1 @@
+﻿Ombre Dansante : Réduit les dommages infligés par les attaques à distance, et ce en fonction du Niveau du Héros. La réduction est de 15% +0,5% par Niveau du héros.

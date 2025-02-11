@@ -1,0 +1,1 @@
+﻿La compétence qui définit la classe du héros et les avantages qu'il a appris au cours du jeu.

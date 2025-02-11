@@ -1,0 +1,1 @@
+﻿Enseigne le sort Téléportation au Héros et lui octroie un effet d'assaut qui augmente l'Initiative de la créature téléportée.<br><color_default>La cible ne peut pas être téléportée derrière les murs d'un chateau lors d'un siège, à moins que le Héros ne possède la compétence Magie de la Lumière au niveau Expert. La créature téléportée obtient un bonus d'Initiative de 50%.

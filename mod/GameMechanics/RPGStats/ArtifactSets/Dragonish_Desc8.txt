@@ -1,0 +1,2 @@
+﻿Ajoute +1 à toutes les caractéristiques du héros et confère un bonus de +5 en Attaque et en Défense à toutes les créatures de niveau 7 de l'armée du héros. Augmente également leurs Points de Vie de +20.
+Renforce l'armée du héros avec une créature de niveau 5 chaque jour. 

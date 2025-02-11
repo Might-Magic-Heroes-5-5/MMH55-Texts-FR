@@ -1,0 +1,2 @@
+﻿La Fosse Sacrificielle permet de gagner de l'Expérience en sacrifiant des créatures.<br><br>
+<color=0099FF>Gouvernance<color_default><br>Accorde un bonus de +2 d'Attaque au Gouverneur de la Cité.

@@ -1,0 +1,1 @@
+﻿Augmente de +2 la Puissance Magique du Héros et lui accorde un bonus de 1000 Pièces d'Or + 250 par Niveau du Héros (bonus accordé une seule fois, mais de façon définitive).

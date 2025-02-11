@@ -1,0 +1,1 @@
+﻿Veilleur : Augmente de +1 l'Attaque et la Défense des Défenseurs, des Gardes-Boucliers et des Gardes-Pierres de l'armée du Héros tous les deux Niveaux du Héros, et de +1 leur nombre de Points de Vie tous les dix Niveaux du Héros.

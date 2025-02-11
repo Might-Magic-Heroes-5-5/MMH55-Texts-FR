@@ -1,0 +1,1 @@
+﻿Toutes les créatures du Bastion de l'armée du Barbare gagnent entre 50 et 100 points de Rage au début d'un combat.

@@ -1,0 +1,9 @@
+﻿+2 de Puissance Magique<br>
+-50% de Résistance Magique aux créatures ennemies<br><color_default>
+(n'affecte pas les Immunités et la Protection Magique)<br><br><color=purple>
+Grande Tenue d'Apparat de Sar-Issus<color_default><br>
++50% de Puissance Magique & Mana créatures amies (2/4)<br>
++100% de Puissance Magique & Mana créatures amies (4/4)<br>
+*Le bonus d'ensemble est appliqué après la fermeture de l'écran d'inventaire.<br><br><color=orange>
+Quête<color_default><br>
+Apportez les 4 Tenues d'Apparat de Sar-Issus à un astrologue et recevez une récompense unique.

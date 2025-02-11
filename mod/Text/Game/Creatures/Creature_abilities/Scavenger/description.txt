@@ -1,0 +1,1 @@
+﻿Cette créature est capable de récupérer des points de vie et de ressusciter ses semblables en dévorant les cadavres ennemis parsemant le champ de bataille et se trouvant dans son rayon de déplacement (Capacité activable). La créature regagne 20% des Points de Vie du cadavre qu'lle dévore.

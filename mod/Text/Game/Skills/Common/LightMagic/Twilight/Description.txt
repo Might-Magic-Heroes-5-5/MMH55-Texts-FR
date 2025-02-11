@@ -1,0 +1,1 @@
+﻿Augmente de +3 la Puissance Magique des sorts de l'Ecole de la Lumière et de l'Ecole des Ténèbres. Au niveau 30, le Héros obtien un bonus de +3 en Puissance Magique pour tous les sorts (donc un total de +6 en Puissance Magique pour les Ecoles de la Lumière et des Ténèbres).

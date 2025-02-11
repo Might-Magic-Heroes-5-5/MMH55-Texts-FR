@@ -1,0 +1,1 @@
+﻿Permet de récupérer des points de Mana (équivalent l'Esprit du Héros divisé par 3, arrondi à l'inférieur) à chaque utilisation d'une Rune.

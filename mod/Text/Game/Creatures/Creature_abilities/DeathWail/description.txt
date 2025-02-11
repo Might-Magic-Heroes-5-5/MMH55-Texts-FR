@@ -1,0 +1,1 @@
+﻿Cette créature est capable d'infliger des dommages à toutes les créatures vivantes dans un rayon de trois cases. Les dommages varient en fonction du Moral des ennemis et de la distance les séparant de la créature. (Capacité activable)

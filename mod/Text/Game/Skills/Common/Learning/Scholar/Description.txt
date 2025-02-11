@@ -1,0 +1,1 @@
+﻿Permet au Héros d'enseigner des sorts à d'autres Héros et d'en apprendre, échangeant ainsi les connaissances contenues dans leurs Livres de Sorts.

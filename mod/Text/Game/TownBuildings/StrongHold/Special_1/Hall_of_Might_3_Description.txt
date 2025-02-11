@@ -1,0 +1,2 @@
+﻿<color_default>Amélioration du Hall du Courage.<br>Permet à un Chef Barbare d'accéder à des Cris de Guerre aléatoires du Troisième Niveau et permet aux Shamanes et aux Sorcières d'obtenir un bonus de +2 Défense de manière permanente (effet NON cumulatif avec les autres cités) et d'apprendre spontanément des sorts du cinquième Cercle. Ce bâtiment est requis pour permettre l'utilisation du Portail Foyer (via le Refuge des Voyageurs)<br><br>
+<color=0099FF>Gouvernance<color_default><br>Accorde un bonus de +3 d'Esprit au Gouverneur de la Cité.

@@ -1,0 +1,1 @@
+﻿Classe : Renégat<br>Spécialisation : Fanatique<br><br><body_bright>Le héros gagne un bonus d'attaque permanent de +1 et chaque troupe ennemie tuée (les troupes invoquées sont également prises en compte) augmente l'attaque de toutes les créatures de son armée de +1 tous les 9 niveaux du héros.<br><color_default>Débute avec la capacité Arts Martiaux.

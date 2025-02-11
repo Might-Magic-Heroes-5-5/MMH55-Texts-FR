@@ -1,0 +1,1 @@
+﻿Le jeu sauvegardera automatiquement avant chaque combat

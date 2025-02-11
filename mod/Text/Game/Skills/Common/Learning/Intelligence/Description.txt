@@ -1,0 +1,1 @@
+﻿Augmente de 40% la quantité maximale de Mana du Héros. La vitesse de régénération du Mana n'est cependant pas augmentée.

@@ -1,0 +1,3 @@
+﻿+6 de Puissance Magique<br>
++6 d'Esprit<br><br><color=yellow>Gardien des Enferss Primordiaux<br><color_default>
+Invoque un Phénix chaque semaine dans la garnison de chaque ville possédée qui est du même alignement que le héros, cet effet fonctionne également lorsque l'artefact est dans le sac à dos.

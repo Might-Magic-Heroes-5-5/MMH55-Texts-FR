@@ -1,0 +1,2 @@
+﻿<color_default>Amélioration du Fortin.<br><color_bright>La Citadelle ajoute un donjon, des douves autour des remparts et augmente de moitié la production hebdomadaire de créatures de base.
+<color=0099FF>Gouvernance<color_default><br>Accorde un bonus de +2 Défense au Gouverneur de la Cité. 

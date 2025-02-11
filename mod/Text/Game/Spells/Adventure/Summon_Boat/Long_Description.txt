@@ -1,0 +1,1 @@
+﻿Invoque un navire. Le Héros doit se trouver sur une plage et à proximité d'un navire inoccupé pour que le sort fonctionne.<color_default><br>Ce sort ne nécessite aucune compétence magique pour être appris.

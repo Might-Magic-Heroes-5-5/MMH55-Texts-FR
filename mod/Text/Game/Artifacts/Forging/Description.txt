@@ -1,0 +1,4 @@
+﻿-1 de Moral<br>
+-2 de Moral si non équipé<br><br><color=red>
+Artefact Maudit<br><color_default>
+Cet artefact exerce une forte emprise sur le héros.

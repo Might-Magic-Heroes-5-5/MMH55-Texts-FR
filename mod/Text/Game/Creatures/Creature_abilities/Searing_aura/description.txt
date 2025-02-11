@@ -1,0 +1,1 @@
+﻿Au début de son tour, toute unité ennemie se trouvant dans un rayon d'une case autour de cette créature se voit infliger des dommages de Feu. Les dommages infligés varient en fonction du nombre de créatures disposant de cette capacité qui composent le peloton. Les dommages sont de 6 points par Etalon Démentiel dans le peloton.

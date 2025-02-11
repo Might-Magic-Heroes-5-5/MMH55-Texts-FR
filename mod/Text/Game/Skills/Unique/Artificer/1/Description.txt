@@ -1,0 +1,1 @@
+﻿Permet au Héros de fabriquer de l'équipement de Niveau 1 pour ses créatures.

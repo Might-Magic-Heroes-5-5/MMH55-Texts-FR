@@ -1,0 +1,1 @@
+﻿Accorde aux créatures Inferno la capacité de Déphasage, afin d'invoquer des renforts depuis les plans infernaux. Chaque unité ne peut utiliser cette capacité qu'une fois par combat. Les créatures invoquées ainsi représentent une fraction de celles ayant déphasé, et disparaissent à la fin du combat.

@@ -1,0 +1,1 @@
+﻿Voulez-vous convertir cette ville à votre faction ?<br>Coût = Or: <value=gold>, Bois: <value=wood>, Minerai: <value=ore>, Mercure: <value=mercury>, Cristaux: <value=crystal>, Soufre: <value=sulphur>,Gemmes: <value=gem><br><br>ATTENTION: Toutes les unités en garnison vont être supprimées !

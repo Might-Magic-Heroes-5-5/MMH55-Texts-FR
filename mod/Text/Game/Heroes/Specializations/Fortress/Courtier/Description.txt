@@ -1,0 +1,1 @@
+﻿Langue d'Or : Augmente les chances pour que les créatures neutres rejoignent l'armée du Héros. Le héros bénéficie d'un bonus de +5% par niveau de puissance militaire pour les calculs diplomatiques. De plus, le Héros reçoit de l'Or et des ressources en cas de victoire militaire.

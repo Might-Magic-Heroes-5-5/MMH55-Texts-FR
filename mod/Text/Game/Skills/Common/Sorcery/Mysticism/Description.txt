@@ -1,0 +1,1 @@
+﻿Double la vitesse de régénération du Mana du Héros.<br><color_default>Le taux est égal à l'Esprit du Héros*2, la régénération du mana provenant d'artéfacts ou de la capacité Dark Renewal n'est pas augmentée.

@@ -1,0 +1,7 @@
+﻿+2 de Moral<br>
++10 d'Esprit calculée pour tous les artefacts actifs<br>
++10 en Défense calculée pour tous les artefacts actifs<br><color_default>
+(Affecte tous les artefacts actifs sur ce héros donnant des ressources, des troupes ou ressuscitant des créatures)<br><br><color=purple>
+Esprit du Lion<color_default><br>
++6 en Attaque (3/3)<br>
+*Le bonus d'ensemble est appliqué après la fermeture de l'écran d'inventaire.

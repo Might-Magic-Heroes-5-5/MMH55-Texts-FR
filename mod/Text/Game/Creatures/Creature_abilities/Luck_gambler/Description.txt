@@ -1,0 +1,1 @@
+﻿Trois fois par combat, cette créature peut augmenter la valeur de Chance d'une troupe amie ou la diminuer sur une troupe ennemie d'une valeur aléatoire comprise entre 1 et 3 (capacité activée).

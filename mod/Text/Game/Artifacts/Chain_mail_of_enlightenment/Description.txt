@@ -1,0 +1,4 @@
+﻿+3 de Puissance Magique<br>
++20% d'Expérience gagnée<br><br>
+<color=purple>Tenue d'Apprenti<color_default><br>
+Le porteur reçoit chaque jour un montant d'Expérience égal au nombre de jours passés * 10, s'il porte à la fois le Turban et le Haubert.

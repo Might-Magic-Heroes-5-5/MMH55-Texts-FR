@@ -1,0 +1,1 @@
+﻿La créature amie de la Forteresse ciblée reçoit un nombre de points de rage égal à 15 * niveau du héros.

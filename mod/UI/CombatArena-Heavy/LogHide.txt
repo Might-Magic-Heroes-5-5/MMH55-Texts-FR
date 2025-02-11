@@ -1,0 +1,1 @@
+﻿Cacher les logs du combat <hotkey=input_switch_atb_log>.

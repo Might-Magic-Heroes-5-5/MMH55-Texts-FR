@@ -1,0 +1,1 @@
+﻿Décalage Temporel : Le lanceur modifie le continuum temporel local, modifiant l'ordre des actions des créatures au début du combat. L'intensité des modifications dépend du niveau du héros.

@@ -1,0 +1,2 @@
+﻿<color_default>Amélioration de la Citadelle.<br><color_bright>Le Château ajoute deux tours d'archers, renforce les défenses d'une Cité et double la production hebdomadaire de créatures de base.<br><br>
+<color=0099FF>Gouvernance<color_default><br>Accorde un bonus de +3 Défense au Gouverneur de la Cité. 

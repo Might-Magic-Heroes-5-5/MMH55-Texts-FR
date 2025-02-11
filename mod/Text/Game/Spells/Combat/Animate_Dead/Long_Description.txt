@@ -1,0 +1,1 @@
+﻿Ressuscite définitivement les morts-vivants et les créatures élémentaires, tandis que les autres créatures ne peuvent être ressuscitées que pour la durée du combat. Ne fonctionne pas sur les créatures mécaniques.

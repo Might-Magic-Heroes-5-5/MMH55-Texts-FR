@@ -1,0 +1,1 @@
+﻿Inflige de lourds dégâts aux murs et aux tours de la ville pendant un siège et une petite quantité de dégâts physiques à toutes les créatures (amies et ennemies), même s'il est lancé en dehors d'une bataille de siège. Les dégâts infligés aux créatures sont égaux à 20 + (2 * Puissance Magique), quel que soit le niveau de maîtrise.

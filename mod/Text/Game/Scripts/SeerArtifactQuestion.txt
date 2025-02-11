@@ -1,0 +1,1 @@
+﻿L'Oracle est intéressé par l'artéfact <color=white><value=qty> <value=type><color_default> que vous possédez. Souhaitez-vous lui céder?

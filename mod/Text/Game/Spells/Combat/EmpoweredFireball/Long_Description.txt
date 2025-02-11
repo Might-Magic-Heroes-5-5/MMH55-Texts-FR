@@ -1,0 +1,1 @@
+﻿Inflige des dégâts de feu à toutes les unités dans la zone ciblée.

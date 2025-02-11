@@ -1,0 +1,3 @@
+﻿<h4> Les héros de la forteresse peuvent améliorer leurs talismans ici pour acquérir de nouveaux sorts d'aventure.<br>
+
+<body_bright>Le héro <value=hero_name> a maintenant <value=talisman_level>.

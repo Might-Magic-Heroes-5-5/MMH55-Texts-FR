@@ -1,0 +1,8 @@
+﻿Jour 1: +1 de Chance
+Jour 2: +1 de Moral
+Jour 3: +1 de Chance
+Jour 4: +1 de Moral
+Jour 5: +1 de Chance
+Jour 6: +1 de Moral
+Jour 7: +1 de Chance & de Moral
+Tous les Jours: +30 Mana

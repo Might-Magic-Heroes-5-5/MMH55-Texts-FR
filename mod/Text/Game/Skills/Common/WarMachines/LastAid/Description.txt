@@ -1,0 +1,1 @@
+﻿Octroie à la Tente de Premiers Soins du Héros la capacité d'infliger des dommages aux créatures ennemies équivalents aux points de Vie qu'elle peut soigner. La Tente de Premiers Soins améliore aussi l'efficacité des Artéfacts de résurrection portés par le Héros (à condition que la Tente n'ait pas été détruite pendant le combat).

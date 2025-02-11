@@ -1,0 +1,1 @@
+﻿Invoque un Phénix sur le champ de bataille qui combattra aux côtés du Héros. Il ne peut y avoir plus d'un Phénix par camp à la fois sur un champ de bataille. L'Attaque, la Défense, les Points de Vie, l'Initiative et la Vitesse du Phénix dépendent de la Puissance Magique du lanceur. Le Phénix est immunisé contre la magie.

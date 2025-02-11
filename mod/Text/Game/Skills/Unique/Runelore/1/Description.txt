@@ -1,0 +1,1 @@
+﻿Permet de placer des Runes du Premier et du Deuxième Cercle sur vos créatures lors d'un combat, afin de les doter de nouvelles capacités.

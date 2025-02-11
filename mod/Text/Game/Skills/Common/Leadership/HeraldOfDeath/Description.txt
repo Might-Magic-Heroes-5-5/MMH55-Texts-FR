@@ -1,0 +1,1 @@
+﻿Toutes les créatures neutres rejoignant l'armée du Héros sont automatiquement transformées en Non-Morts de Niveau équivalent. Contrairement à l'Autel d'Outretombe, les créatures améliorées sont transformées en Non-Morts améliorés.<br><color_default>Les Héros de la Nécropole apprennent cette capacité à la place d'Empathie.

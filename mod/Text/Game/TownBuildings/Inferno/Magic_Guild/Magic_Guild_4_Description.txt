@@ -1,0 +1,2 @@
+﻿<color_default>Amélioration de la Guilde des Mages de Niveau 3.<br><color_bright>Permet à un Héros d'accéder à 2 sorts du Quatrième Cercle.<br><br>
+<color=0099FF>Gouvernance<color_default><br>Accorde un bonus de +4 de Puissance Magique au Gouverneur de la Cité.

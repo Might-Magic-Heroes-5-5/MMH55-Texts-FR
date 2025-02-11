@@ -1,0 +1,1 @@
+﻿Accorde aux créatures de l'armée du Héros 30% de chances d'infliger des dommages de Feu supplémentaires lors de leurs attaques. La quantité de dommages infligés vaut 15 + 15*Puissance Magique du Héros et lui draine 4 points de Mana.

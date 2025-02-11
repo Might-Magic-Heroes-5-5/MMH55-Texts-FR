@@ -1,0 +1,1 @@
+﻿Cette créature peut réparer les créatures mécaniques amies (Golems) et les Machines de Guerre une fois par combat (capacité activée). Le nombre de Points de Vie réparés est égal à 2 par Gremlin. Cette capacité nécessite qu'au moins 20 Gremlins soient présents dans la pile au début du combat.

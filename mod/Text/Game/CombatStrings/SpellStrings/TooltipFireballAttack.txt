@@ -1,0 +1,1 @@
+﻿<color_default>Les attaques provoquent des boules de feu pour <value=damage> dégâts

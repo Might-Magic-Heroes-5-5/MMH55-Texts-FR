@@ -1,0 +1,1 @@
+﻿Permet de vendre des créatures de votre armée pour gagner de l'argent. Le prix de vente dépend du nombre de Places de Marché dans votre royaume. Tous les héros de forteresse ayant la compétence Logistique gagnent également 50% de renforts supplémentaires chaque semaine (non cumulable avec plusieurs villes).

@@ -1,0 +1,1 @@
+﻿Les héros Barbares reculent le long de la barre ATB 30 % de moins que d'habitude lorsqu'ils attaquent.

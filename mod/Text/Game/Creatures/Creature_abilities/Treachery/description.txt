@@ -1,0 +1,1 @@
+﻿Si le nombre de ces créatures tombe en dessous de 20 % de leur nombre initial, elles changent de camp.

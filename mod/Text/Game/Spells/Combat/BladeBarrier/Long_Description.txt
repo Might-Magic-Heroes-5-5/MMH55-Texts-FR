@@ -1,0 +1,1 @@
+﻿Génère un mur de trois cases à l'endroit désigné du champ de bataille. Ce mur bénéficie de 75% de Défense supplémentaire contre les attaques magiques et à distance, et inflige des dommages équivalent aux Points de Vie qu'il a perdus aux ennemis l'attaquant au corps à corps. La barrière empêche les tireurs adjacents de tirer.

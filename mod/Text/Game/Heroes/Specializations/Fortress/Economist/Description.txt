@@ -1,0 +1,1 @@
+﻿Savant: Le héros débute avec +1 d'Esprit et apprend une compétence primaire aléatoire tous les 6 niveaux.

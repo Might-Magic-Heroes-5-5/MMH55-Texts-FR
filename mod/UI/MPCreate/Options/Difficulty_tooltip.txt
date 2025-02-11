@@ -1,0 +1,25 @@
+﻿Les IA Quantomas ne peuvent pas être utilisées en LAN. Utilisez MMH5.5_Utility.exe pour jouer avec des IA en LAN. L'expérience est configurée pour rendre la vitesse de progression aussi rapide, peu importe la difficulté.
+
+Normal
+Ressources: 30,15,30000 
+Neutres: x1.1
+Croissance: 11% 
+Expérience: 100%
+
+Hard 
+Ressources: 20,15,20000 
+Neutres: x1.2 
+Croissance: 12%
+Expérience: 92%
+
+Heroic
+Ressources: 20,15,20000 
+Neutres: x1.3
+Croissance: 13%
+Expérience: 85%
+
+Impossible
+Ressources: 10,5,10000 
+Neutres: x1.4
+Croissance: 14%
+Expérience: 79%

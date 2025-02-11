@@ -1,0 +1,2 @@
+﻿Permet à un Héros de passage d'apprendre des Runes du Premier et Deuxième Cercle.<br><br>
+<color=0099FF>Gouvernance<color_default><br>Accorde un bonus de +1 d'Esprit au Gouverneur de la Cité.

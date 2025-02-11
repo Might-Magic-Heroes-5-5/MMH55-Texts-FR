@@ -1,0 +1,1 @@
+﻿Maître Ingénieur : Augmente de +1 l'Attaque de la Baliste et de 2% les chances de toucher de la Catapulte de l'armée du Héros et ce pour chaque Niveau du Héros.

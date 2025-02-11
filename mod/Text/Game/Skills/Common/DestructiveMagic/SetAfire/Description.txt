@@ -1,0 +1,1 @@
+﻿Les sorts de Feu lancés par le Héros enflamment les ennemis et leur infligent 100% des dommages du sort en plus pendant les trois tours suivants, à savoir 33,3% par tour.<br><color_default>Ainsi, au total (dommages immédiats + dommages continus), les sorts de feu infligent le double de leurs dommages sur trois tours.

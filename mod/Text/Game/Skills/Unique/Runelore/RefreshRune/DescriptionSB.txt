@@ -1,0 +1,1 @@
+﻿Permet de rétablir une Rune (choisie au hasard s'il y en a plusieurs) placée sur une créature afin de prolonger son effet. Le Héros ne dépense qu'un demi-tour pour rénover une rune. Celle-ci devient à nouveau disponible au coût habituel après avoir été rétablie.

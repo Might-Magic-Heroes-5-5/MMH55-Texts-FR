@@ -1,0 +1,1 @@
+﻿Malheureusement, vous avez perdu <value=bet> pièces d'or, nous espérons vous revoir dans l'un de nos autres Casinos !

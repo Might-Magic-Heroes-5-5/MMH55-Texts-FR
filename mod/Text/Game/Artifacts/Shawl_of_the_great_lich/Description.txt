@@ -1,0 +1,3 @@
+﻿+4 d'Esprit<br>
+Annule l'immunité ennemie aux sorts Mentaux.<br><br><color=orange>
+Chevaliers Noirs<color_default><br>Brûlez cet artefact dans un temple et il invoquera un peloton de Chevaliers Noirs. La taille de ce groupe est égale à 2*nombre de semaines écoulées.

@@ -1,0 +1,1 @@
+﻿Augmente de +1 la vitesse de déplacement des créatures de l'armée du Héros sur le champ de bataille.

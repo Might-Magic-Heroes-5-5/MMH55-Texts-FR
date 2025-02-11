@@ -1,0 +1,1 @@
+﻿Une capacité de combat spéciale affectant toutes les créatures amies, qui augmente l'Attaque, la Défense et le Moral de 2, et l'Initiative de 10%. La durée de l'effet est de 2+0.1*(Niveau du Héros) tours (ne fonctionne pas sur les morts-vivants ou les créatures mécaniques). La valeur ATB du héros est réinitialisée à 0.15 après utilisation.

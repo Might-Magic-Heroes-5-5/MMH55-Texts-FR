@@ -1,0 +1,1 @@
+﻿Ressuscite de manière permanente les créatures du peloton allié ciblé. Chaque utilisation de ce sort réduit les points de vie du peloton de 10% de la valeur initiale jusqu'à la fin du combat.

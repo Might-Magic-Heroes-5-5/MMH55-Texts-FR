@@ -1,0 +1,1 @@
+﻿Classe : Chevalier de la Mort<br>Spécialisation: Embaumeur<br><br><body_bright>La Tente de Premiers Soins soigne 4 points de vie supplémentaires par niveau de Défense du héros, mais le héros commence avec une Défense de -1.<br><color_default>Débute avec la capacité Premiers Soins.

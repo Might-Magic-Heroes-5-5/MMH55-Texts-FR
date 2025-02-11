@@ -1,0 +1,1 @@
+﻿Réduit de -1 la Vitesse et de 20% l'Initiative de toutes les créatures volantes ennemies.

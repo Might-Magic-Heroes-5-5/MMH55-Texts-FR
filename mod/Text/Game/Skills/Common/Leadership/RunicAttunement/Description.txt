@@ -1,0 +1,1 @@
+﻿Placer une Rune sur une créature lui augmente son Moral de +2 pendant un tour.

@@ -1,0 +1,1 @@
+﻿Classe : Barbare<br>Spécialisation : Assaillant<br><br><body_bright>Le héros débute avec +1 d'Attaque. La compétence augmente par la suite de +1 tous les 7 niveaux.<br><br><color=orange>Veteran<color_default><br>Débute avec Notions d'Apprentissage.

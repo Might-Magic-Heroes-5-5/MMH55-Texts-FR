@@ -1,0 +1,1 @@
+﻿Garde Frontière<br><br><body_bright>Augmente de +1 la Défense du Héros s'il combat à moins d'une journée de voyage d'une Cité alliée et ce tous les deux Niveaux du Héros.

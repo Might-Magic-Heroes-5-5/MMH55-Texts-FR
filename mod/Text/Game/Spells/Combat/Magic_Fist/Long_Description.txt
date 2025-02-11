@@ -1,0 +1,1 @@
+﻿Invoque un poing magique qui inflige des dégâts physiques non élémentaires à la créature ennemie ciblée. Ce sort ignore la Résistance Magique, la protection et l'immunité contre la magie.

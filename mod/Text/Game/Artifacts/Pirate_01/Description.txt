@@ -1,0 +1,6 @@
+﻿+7 d'Esprit<br>
++500 points de mouvement après chaque bataille sur mer<br><br><color=purple>
+Tenue de Pirate<color_default><br>
++6 en Attaque (3/6)<br>
++12 en Attaque (6/6)<br>
+*Le bonus d'ensemble est appliqué après la fermeture de l'écran d'inventaire.

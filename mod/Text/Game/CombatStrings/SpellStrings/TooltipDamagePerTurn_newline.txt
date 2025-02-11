@@ -1,0 +1,1 @@
+﻿<br><color_default>suffer <value=damage> dégâts par tour

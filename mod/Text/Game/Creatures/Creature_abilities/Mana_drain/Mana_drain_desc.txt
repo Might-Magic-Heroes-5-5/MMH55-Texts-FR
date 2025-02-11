@@ -1,0 +1,1 @@
+﻿Lorsqu'elle attaque, cette créature est capable de drainer le Mana de sa cible afin de restaurer sa santé. Le mana drainé est égal au nombre de créatures dans le peloton, plafonné à la quantité de mana réelle de la cible. Le nombre de créatures ressuscitées est égal à la quantité de mana drainée.

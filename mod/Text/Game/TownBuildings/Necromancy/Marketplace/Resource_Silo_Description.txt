@@ -1,0 +1,2 @@
+﻿<color_default>Amélioration de la Place du Marché.<br>
+<color_bright>Le Silo à Ressources vous offre +1 Mercure supplémentaire chaque jour.

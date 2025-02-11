@@ -1,0 +1,1 @@
+﻿Classe : Démoniste<br>Spécialisation : Flamboyant<br><br><body_bright>La Puissance Magique effective du héros est augmentée lorsqu'il lance Boule de feu ou Boule de feu amplifiée. L'augmentation est égale au niveau du héros/3.<br><color_default>Débute avec la capacité Maître du feu.

@@ -1,0 +1,1 @@
+﻿Classe : Mage des Runes<br>Spécialisation: Maître des Runes<br><br><body_bright>Lorsqu'il gagne un Niveau, le Héros apprend automatiquement un sort runique supplémentaire. La probabilité est de 25%.

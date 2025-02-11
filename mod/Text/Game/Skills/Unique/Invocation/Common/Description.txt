@@ -1,0 +1,1 @@
+﻿Permet au Héros de constituer des Chaînes Elémentaires basées sur les éléments associés aux créatures, afin de les faire exploser pour infliger des dommages.

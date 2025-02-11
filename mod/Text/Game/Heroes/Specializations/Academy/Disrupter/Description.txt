@@ -1,0 +1,1 @@
+﻿Tourmenteur : En plus de réduire la Défense de la cible, le sort Hex de Vulnérabilité inflige des dommages qui augmentent en fonction du Niveau du Héros. Les dégâts sont = 30+30*ceil(Niveau/2), où ceil() est la fonction d'arrondi.

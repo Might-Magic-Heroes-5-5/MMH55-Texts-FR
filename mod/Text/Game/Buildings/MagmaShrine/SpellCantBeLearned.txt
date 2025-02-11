@@ -1,0 +1,1 @@
+﻿Le Sort Runique <value=spell> ne peut pas être appris. Requiert <value=skill>.

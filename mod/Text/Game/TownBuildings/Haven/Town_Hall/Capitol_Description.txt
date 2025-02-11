@@ -1,0 +1,2 @@
+﻿<color_default>Amélioration de l'Hôtel de Ville.<br><color_bright>Le Capitole vous fournit 4000 Pièces d'Or par jour.<br><br>
+<color=0099FF>Gouvernance<color_default><br>Accorde un bonus de 100 points d'Expérience par jour au Gouverneur de la Cité.

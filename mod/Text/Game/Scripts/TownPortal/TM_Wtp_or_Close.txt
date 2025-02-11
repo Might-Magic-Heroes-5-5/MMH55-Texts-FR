@@ -1,0 +1,30 @@
+﻿-------------------------------------------------------------------------------
+ACTION SUIVANTE
+-------------------------------------------------------------------------------
+
+OK = Se téléporter à la ville la plus proche
+Annuler = Fermer cette fenêtre
+
+*Votre Barbare peut seulement utiliser le sort Portail Foyer classique à partir d'ici.
+
+-------------------------------------------------------------------------------
+A PROPOS DU HEROS
+-------------------------------------------------------------------------------
+
+Rôle du Héros: <value=occupation>
+Points de Mouvement: <value=movement>
+Vitesse de récupération du Mana: <value=mana>
+Revenus additionnels: <value=estates>
+Quantité de renforts reçus par les artéfacts chaque semaine: Rang<value=artifactsummons_tier>:<value=artifactsummons> 
+Quantité d'élémentaires invoqués chaque semaine: <value=summons>
+Quantité de recrues ajoutées chaque semaine (Gouvernance): R1:<value=tier1> R2:<value=tier2> R3:<value=tier3> R4:<value=tier4> R5:<value=tier5> R6:<value=tier6> R7:<value=tier7>
+
+-------------------------------------------------------------------------------
+PARAMETRES DE LA CARTE
+-------------------------------------------------------------------------------
+
+Gouvernance: <value=governance>
+Conversion de villes: <value=conversion>
+Nombre maximum de villes par faction: <value=maxtowns>
+Nombre maximum d'habitations par faction: Rang1:<value=t1d> Rang2:<value=t2d> Rang3:<value=t3d> 
+Nombre maximum de postes militaires par faction: <value=t4d>

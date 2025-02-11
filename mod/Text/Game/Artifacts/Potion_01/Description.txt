@@ -1,0 +1,1 @@
+﻿Restaure entièrement la Mana du héros le lendemain s'il est équipé.<br><br><color=blue>Consommable<color_default><br>La potion disparaîtra après utilisation, conservez-la dans le sac à dos jusqu'à ce que vous en ayez besoin.

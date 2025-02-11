@@ -1,0 +1,1 @@
+﻿A chaque fois qu'un effet de Moral affecte l'une des créatures de l'armée du Héros, l'Initiative de ce dernier est modifiée de 5%. (En bonus pour un effet de Moral positif, ou en malus pour un effet de Moral négatif).<br><color_default>Les Héros du Bastion qui possèdent la compétence Hurlement reçoivent un malus de -2 au moral.

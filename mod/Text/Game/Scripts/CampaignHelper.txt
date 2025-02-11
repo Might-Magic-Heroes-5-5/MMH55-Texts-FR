@@ -1,0 +1,11 @@
+﻿Cher joueur, chère joueuse,
+
+Bienvenue dans la nouvelle révision des campagnes de Might & Magic : Heroes 5.5. Veuillez prendre connaissance des éléments suivants pour vous assurer de ne pas rencontrer de problèmes si vous prévoyez de jouer toutes les campagnes :
+
+1. Jouez toujours en chargeant MMH55.exe ou MMH55_64.exe, n'utilisez pas le lanceur Steam, il chargera le mauvais exe et provoquera des bugs d'IA.
+
+2. Tous les artefacts que vous avez équipés seront conservés entre les missions, à l'exception des artefacts de mouvement, des livres de compétences, des sacs d'or, des baguettes, des parchemins et de la larme d'Asha. Les artefacts non équipés seront perdus.
+
+3. Les plafonds de niveau des héros sont plus élevés. La taille par défaut du champ de bataille est de 14x12 au lieu de 12x10 et les piles neutres seront mélangées dans toutes les missions. 
+
+4. Les comptoirs commerciaux peuvent vous vendre des potions de mana et des potions de mouvement. Les fonctionnalités avancées de RMG telles que la conversion de ville, la gouvernance, les portes dimensionnelles et le contrôle des mines sont désactivées, car elles entrent en conflit avec la narration et les objectifs d'origine.

@@ -1,0 +1,1 @@
+﻿Téléporte le héros et toute son armée à un autre endroit de la carte. La portée est de 8 tuiles et coûte 20% des points de mouvement maximum du héros.<color_default><br>Ce sort nécessite le niveau 20 pour être appris. Aucune compétence magique n'est requise.

@@ -1,0 +1,1 @@
+﻿Une vieille sorcière vous accueille et s'intéresse à votre quête, elle pense que vous en savez déjà beaucoup mais en échange de <value=gold> elle est prête à vous enseigner <value=mastery> <value=skill>. Acceptez-vous ?

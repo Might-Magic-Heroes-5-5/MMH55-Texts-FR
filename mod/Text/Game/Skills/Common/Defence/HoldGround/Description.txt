@@ -1,0 +1,1 @@
+﻿Augmente de 30% la Défense des créatures de l'armée du Héros lorsqu'elles exécutent l'ordre Défendre.<br><color_default>Le bonus de la capacité Prendre Racine est aussi doublé, ce qui octroie un bonus de Défense de 100% aux Tréants Séculaires.

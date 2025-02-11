@@ -1,0 +1,1 @@
+﻿Augmente de +<value=enchant> l'Attaque pendant <value=duration> tour(s).

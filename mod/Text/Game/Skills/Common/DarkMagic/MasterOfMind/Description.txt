@@ -1,0 +1,1 @@
+﻿Le héros apprend le sort Hex de Ralentisssement et bénéficie de l'effet de masse des sorts Hex de Ralentissement et Hex de Confusion.<br><color_default>Les sorts de masse frappent toutes les cibles ennemies avec un effet 33 % plus faible et coûtent quatre fois plus de mana, mais sont toujours lancés aussi vite, comme si le héros possédait une maitrise Avancée en Sorcellerie.

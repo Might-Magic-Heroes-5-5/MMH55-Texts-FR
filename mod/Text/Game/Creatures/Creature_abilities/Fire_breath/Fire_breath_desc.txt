@@ -1,0 +1,1 @@
+﻿Lorsqu'elle attaque, cette créature inflige des dommages à sa cible, mais également à toutes les unités situées directement derrière cette dernière.

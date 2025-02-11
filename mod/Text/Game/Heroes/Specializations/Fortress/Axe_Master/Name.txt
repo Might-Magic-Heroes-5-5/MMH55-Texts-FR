@@ -1,0 +1,1 @@
+﻿Classe : Ingénieur<br>Spécialisation : Lame Affutée<br><br><body_bright>Tous les Manieurs de Lance, Escarmoucheurs et Harponneurs de l'armée du héros gagnent +1 en Attaque et en défense tous les deux niveaux du héros, à partir du premier niveau.<br><color_default>Débute avec la capacité Guerrier Chanceux.

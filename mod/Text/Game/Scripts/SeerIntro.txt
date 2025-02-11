@@ -1,0 +1,5 @@
+﻿L'Oracle est un collectionneur avide d'anciens artéfacts mais il suspecte certains des objets qui circulent en Ashan d'être des contrefaçons. C'est pourquoi il vous demande de lui apporter un certain nombre d'article similaire pour ses recherches.
+
+Actuellement, il est à la recherche de l'artéfact : <color=white><value=qty> <value=type><color_default> 
+
+L'Oracle aurait diverses récompenses à vous offrir en retour.

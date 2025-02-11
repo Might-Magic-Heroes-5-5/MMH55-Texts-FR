@@ -1,0 +1,1 @@
+﻿Améliore les armes de toutes les créatures de l'armée du Héros afin qu'elles infligent des dommages de Glace supplémentaires. La cible subit des dommages élémentaires d'eau égaux à 10% des dommages primaires infligés.

@@ -1,0 +1,1 @@
+﻿Le rituel a invoqué <value=num> Manticores.

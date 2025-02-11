@@ -1,0 +1,2 @@
+﻿Le Monceau de Crânes améliore la capacité Rage Sanguinaire des Chefs Barabres en accordant 50 points de rage aux créatures d'une armée au début d'un combat. Les Shamanes et les Sorcières obtiennent un bonus de +1 d'Esprit de manière permanente (effets cumulatifs avec les autres Cités).<br><br>
+<color=0099FF>Gouvernance<color_default><br>Accorde un bonus de +2 d'Attaque au Gouverneur de la Cité.

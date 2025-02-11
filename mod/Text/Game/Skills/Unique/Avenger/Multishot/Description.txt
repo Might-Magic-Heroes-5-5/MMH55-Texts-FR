@@ -1,0 +1,1 @@
+﻿Permet au Rôdeur d'attaquer simultanément toutes les créatures ennemies faisant partie de ses ennemis intimes. Les dommages infligés à chaque cible sont plus puissants que si le Héros avait utilisé son attaque directe, avec un bonus de +3 à son Niveau lors du calcul des dommages.

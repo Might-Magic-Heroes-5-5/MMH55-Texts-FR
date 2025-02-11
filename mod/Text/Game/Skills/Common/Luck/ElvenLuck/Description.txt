@@ -1,0 +1,1 @@
+﻿Lorsqu'un bonus de chance est déclenché, la créature fait x1,66 points de dégâts au lieu de x1,5.

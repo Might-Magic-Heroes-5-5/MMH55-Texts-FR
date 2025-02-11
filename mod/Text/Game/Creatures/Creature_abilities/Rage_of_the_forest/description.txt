@@ -1,0 +1,1 @@
+﻿Cette créature est capable d'augmenter son Attaque aux dépends de sa Défense, à raison d'un demi-point à chaque fois, et ce jusqu'à la fin du combat. Elle reçoit également un bonus d'Initiative.

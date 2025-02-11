@@ -1,0 +1,1 @@
+﻿Les dégâts des sorts de terre sont augmentés de 10% pendant les combats. Le nombre d'élémentaires de terre invoqués augmente de 50%.

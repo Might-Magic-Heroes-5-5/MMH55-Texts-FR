@@ -1,0 +1,1 @@
+﻿Une fois par bataille, cette créature peut exploser en une boule de feu, infligeant des dégâts de feu à toutes les créatures sur les tuiles adjacentes sans se blesser lui-même.

@@ -1,0 +1,2 @@
+﻿+2 de Defense<br>
+Augmente de +40% la résistance aux sorts d'Air.

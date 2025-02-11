@@ -1,0 +1,1 @@
+﻿Permet à un héros d'acheter des Machines de Guerre et un contrat peut être conclu pour un approvisionnement supplémentaire en bois.

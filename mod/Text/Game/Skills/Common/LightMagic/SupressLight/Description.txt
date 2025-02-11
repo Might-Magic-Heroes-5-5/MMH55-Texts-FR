@@ -1,0 +1,1 @@
+﻿Double le coût en Mana des sorts de l'Ecole de la Lumière pour le Héros ennemi.

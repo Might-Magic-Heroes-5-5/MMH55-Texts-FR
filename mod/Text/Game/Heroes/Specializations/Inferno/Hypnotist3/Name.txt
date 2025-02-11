@@ -1,0 +1,1 @@
+﻿Classe : Hérétique<br>Spécialisation : Contrôleur Mental<br><br><body_bright>Le héros gagne +1 de Puissance Magique tous les 7 niveaux et le sort Confusion a pour effet supplémentaire de diminuer le mana de la cible d'un point par niveau du héros.<br><color_default>Débute avec Magie des Ténèbres Pratique.

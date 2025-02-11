@@ -1,0 +1,1 @@
+﻿L'unité amie sélectionnée agit plus fréquemment en combat. Si la cible est sous l'influence du sort Hex d'Epuisement, les deux effets resteront actifs et la différence de puissance des lanceurs déterminera le résultat.

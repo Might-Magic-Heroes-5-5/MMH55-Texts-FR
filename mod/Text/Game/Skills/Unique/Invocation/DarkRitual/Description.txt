@@ -1,0 +1,1 @@
+﻿Permet au Héros de récupérer la totalité de son Mana en passant la journée à effectuer un rituel complexe. Ne peut être utilisé qu'en début de journée.

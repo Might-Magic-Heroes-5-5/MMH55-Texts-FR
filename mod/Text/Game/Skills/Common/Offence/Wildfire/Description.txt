@@ -1,0 +1,1 @@
+﻿Les Balistes de l'armée du Héros annulent la Défense de leur cible et infligent 50 dommages de Feu supplémentaires. Les Balistes détruites retourneront dans l'armée du Héros après le combat.

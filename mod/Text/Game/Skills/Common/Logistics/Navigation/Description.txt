@@ -1,0 +1,1 @@
+﻿Compétence d'Aventure : Le héros reçoit des renforts natifs de Rang 4 au lieu du Rang 3 comme s'il possédait la compétence Expert Logistique. La vitesse de déplacement du héros en mer est également augmentée de 25 %.

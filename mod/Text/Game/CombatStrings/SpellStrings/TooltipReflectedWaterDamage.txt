@@ -1,0 +1,1 @@
+﻿<color_default>Renvoi <value=damage>% dégâts d'eau aux attaquants en mêlée

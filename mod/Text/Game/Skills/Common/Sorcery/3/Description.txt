@@ -1,0 +1,1 @@
+﻿Augmente la vitesse de lancement de sorts de combat du Héros. Réduit de 36% l'intervalle entre deux lancements de sorts consécutifs. Les sorts de masse ne sont pas affectés.

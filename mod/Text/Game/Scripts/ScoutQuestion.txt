@@ -1,0 +1,7 @@
+﻿Souhaitez-vous envoyer des éclaireurs (créatures natives de niveau 1) dans le bâtiment pour enquêter sur la force des créatures qui gardent les trésors. La probabilité qu'un éclaireur ne survive pas à cette mission est de <value=chance>%
+-------------------------------------------------------------------------------
+
+OK = Explorer
+Annuler = Attaque
+
+-------------------------------------------------------------------------------

@@ -1,0 +1,1 @@
+﻿Si cette option est sélectionnée, la valeur 'Active Time Battle' est indiquée pour chaque unité de la barre en combat. Lorsque la valeur ATB d'une unité atteint 1, elle agit en combat. Les valeurs ATB peuvent être modifiées en combat à l'aide de capacités.

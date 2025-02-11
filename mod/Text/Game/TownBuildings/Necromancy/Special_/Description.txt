@@ -1,0 +1,2 @@
+﻿Améliore la compétence Nécromancie. Augmente de 5% la compétence Nécromancie de vos Nécromanciens et leur accorde 100 points additionnels de Flux Noir (effet cumulatif avec les autres Cités).<br><br>
+<color=0099FF>Gouvernance<color_default><br>Accorde un bonus de +2 d'Esprit au Gouverneur de la Cité.

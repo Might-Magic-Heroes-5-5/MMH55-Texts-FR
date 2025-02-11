@@ -1,0 +1,1 @@
+﻿Embaumeur : La Tente de Premiers Soins soigne 4 points de vie supplémentaires par niveau de Défense du héros, mais le héros commence avec une Défense de -1.

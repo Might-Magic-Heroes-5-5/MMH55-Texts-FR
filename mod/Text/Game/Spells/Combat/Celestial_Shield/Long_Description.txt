@@ -1,0 +1,1 @@
+﻿Enveloppe le pelton cible d'un bouclier d'énergie magique qui absorbe une partie des dégâts qui lui sont infligés jusqu'à ce qu'il soit détruit. L'efficacité dépend de la Puissance Magique du lanceur. Une invulnérabilité totale peut être obtenue avec un niveau de 60.

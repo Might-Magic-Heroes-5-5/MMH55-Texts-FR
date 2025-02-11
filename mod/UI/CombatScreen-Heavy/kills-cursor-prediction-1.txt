@@ -1,0 +1,2 @@
+﻿Dommage: <color=green><value=damage><color=white><br>
+Elimine: <color=red><value=kills><color=white>

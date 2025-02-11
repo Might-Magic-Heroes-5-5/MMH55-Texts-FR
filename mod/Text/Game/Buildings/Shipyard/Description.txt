@@ -1,0 +1,1 @@
+﻿Construit des bateaux pour traverser la mer. Le déplacement sur l'eau ne coûte que 75 points par tuile.

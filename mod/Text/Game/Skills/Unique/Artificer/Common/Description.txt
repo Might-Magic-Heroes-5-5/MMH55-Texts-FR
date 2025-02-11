@@ -1,0 +1,1 @@
+﻿Permet au Héros de fabriquer des petits artéfacts pour ses créatures dans une Forge des Arcanes.

@@ -1,0 +1,8 @@
+﻿Jour 1: +3 en Attaque
+Jour 2: +1 de Moral
+Jour 3: +3 en Défense
+Jour 4: +1 de Chance
+Jour 5: +1 d'Initiative
+Jour 6: +2 en Attaque & en Défense
+Jour 7: +1 de Vitesse
+Tous les Jours: +400 Points de Mouvement

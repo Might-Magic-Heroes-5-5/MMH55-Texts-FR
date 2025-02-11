@@ -1,0 +1,8 @@
+﻿+3 en Attaque<br>
++3 en Défense<br>
+Accorde aux créatures amies l'immunité au sort Choc Terrestre<br>
+<br><color=purple>
+Gangue des Seigneurs Nains<color_default><br>
++4 en Défense (2/4)<br>
++8 en Défense (4/4)<br>
+*Le bonus d'ensemble est appliqué après la fermeture de l'écran d'inventaire.

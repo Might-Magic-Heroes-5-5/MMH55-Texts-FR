@@ -1,0 +1,5 @@
+﻿+3 de Chance si équipé<br>
++C*200 Pièces d'Or par jour<br><color_default>
+(E=Esprit du héros, par exemple 4000 pièces d'or par jour pour 20 d'Esprit)<br><br><color=yellow>
+Sac à dos<color_default><br>
+Les ressources sont également gagnées lorsque l'artefact est dans le sac à dos, mais la fonctionnalité est limitée à un artefact par héros.

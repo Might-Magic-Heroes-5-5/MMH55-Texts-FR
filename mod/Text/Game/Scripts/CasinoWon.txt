@@ -1,0 +1,1 @@
+﻿Félicitations, vous avez gagné <value=reward> pièces d'or, nous espérons vous revoir dans l'un de nos autres Casinos !

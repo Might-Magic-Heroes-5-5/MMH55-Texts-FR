@@ -1,0 +1,1 @@
+﻿Transporte le Héros dans la Cité alliée la plus proche en consommant tous ses Points de Mouvement.<color_default><br>Ce sort requiert un Héros de Niveau 10 pour être appris. Aucune compétence magique n'est nécessaire.

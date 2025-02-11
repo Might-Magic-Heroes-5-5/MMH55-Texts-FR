@@ -1,0 +1,1 @@
+﻿Augmente la Défense du Héros de +2 et lance un enchantement de Glace sur tous les Non-Morts contrôlés par le Héros. Tout ennemi combattant au corps à corps contre ces créatures se verra infliger des dommages de Glace équivalents à 5% des dommages infligés.

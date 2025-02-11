@@ -1,0 +1,1 @@
+﻿Enseigne le sort Séisme au Héros et lui octroie un effet de secousse qui inflige des dommage et étourdit les créatures se trouvant derrière les murs d'une place forte. Les dommages infligés valent 120+12*Puissance Magique du Héros. L'effet d'étourdissement réduit l'Initiative de la créature touchée de 10%. Attention : les troupes alliées peuvent aussi être touchées.

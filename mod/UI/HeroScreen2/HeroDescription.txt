@@ -1,0 +1,1 @@
+﻿<value=HeroClass><br>Niveau <value=HeroLevel><br><br>Expérience :

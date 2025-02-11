@@ -1,0 +1,1 @@
+﻿Enseigne le sort Boule de Feu au Héros et réduit de 50% la Défense des créatures ennemies frappées par les sorts Boule de Feu, Mur de Flammes et Armageddon.<br><color_default>La pénalité de Défense dure pendant un seul tour est n'est pas cumulable.

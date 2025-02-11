@@ -1,0 +1,1 @@
+﻿Réduit de <value=initiative_bonus>% l'Initiative, et de -<value=enchant> le Moral et la Chance pendant <value=duration> tour(s).

@@ -1,0 +1,1 @@
+﻿Destruction de Mana : La fréquence des attaques du Héros en combat augmente en fonction de son Niveau. L'initiative du héros deviendra 10.75 + 0.025 * niveau du héros (au lieu de 10).

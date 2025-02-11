@@ -1,0 +1,3 @@
+﻿Souhaitez-vous générer des troupes neutres mixtes avant le début de la partie ?
+
+(ATTENTION : la génération se poursuivra quelle que soit la taille de la carte et pourrait bloquer le jeu pendant plusieurs minutes).

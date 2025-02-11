@@ -1,0 +1,1 @@
+﻿<color=yellow>Le Temple vous a récompensé avec <value=num> <value=upgtype>s

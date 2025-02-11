@@ -1,0 +1,1 @@
+﻿Les dégâts minimums sont augmentés de <value=enchant>% pour un maximum de <value=duration> tours.

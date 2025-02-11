@@ -1,0 +1,1 @@
+﻿Toutes les créatures du Bastion de l'armée du Héros gagnent 160 points de Rage supplémentaires au début d'un combat, remplaçant l'effet moins puissant de la capacité Memoire de notre Sang.

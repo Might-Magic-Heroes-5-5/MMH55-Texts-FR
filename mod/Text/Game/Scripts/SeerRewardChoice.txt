@@ -1,0 +1,4 @@
+﻿Choisissez votre récompense :
+
+OK = <value=qty_a> <value=type_a>
+Annuler = <value=qty_b> <value=type_b>

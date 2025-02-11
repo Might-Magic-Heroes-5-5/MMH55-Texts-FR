@@ -1,0 +1,1 @@
+﻿Chaque attaque du Héros fait perdre 20% d'Initiative à sa cible.

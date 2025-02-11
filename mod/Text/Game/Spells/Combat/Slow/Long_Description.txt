@@ -1,0 +1,1 @@
+﻿Force le peloton ennemi ciblé à effectuer moins d'actions en combat. Si la cible est sous l'influence du sort Grâce de Rapidité, les deux effets resteront actifs et la différence de puissance des lanceurs de sorts déterminera le résultat.

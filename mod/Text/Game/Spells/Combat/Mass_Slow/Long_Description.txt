@@ -1,0 +1,1 @@
+﻿Diminue le nombre d'actions de toutes les créatures ennemies. Si une cible est sous l'influence du sort Grâce de Rapidité, les deux effets resteront actifs et la différence de puissance des lanceurs déterminera le résultat.

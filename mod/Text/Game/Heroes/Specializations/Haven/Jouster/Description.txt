@@ -1,0 +1,1 @@
+﻿Commandant de Cavalerie : Les Cavaliers, Paladins et Fanatiques de l'armée du héros bénéficient d'un bonus de dégâts de joute supplémentaire égal à +1% par niveau du héros. La capacité Contre-Offensive du héros inflige également +1% de dégâts supplémentaires par niveau du héros.

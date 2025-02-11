@@ -1,0 +1,1 @@
+﻿S'enfuir/Se rendre. <hotkey=input_Combat_Retreat>

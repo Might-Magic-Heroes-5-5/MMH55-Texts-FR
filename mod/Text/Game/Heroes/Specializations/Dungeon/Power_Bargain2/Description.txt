@@ -1,0 +1,1 @@
+﻿Catalyseur : Le coût en mana des sorts amplifiés est réduit de 20 % + 0,25 % par niveau de héros.

@@ -1,0 +1,4 @@
+﻿La pratique autrefois utilisée par le Mentor du Souvenir est désormais bannie de ces terres. Mais le Mage consent à vous accorder un entraînement magique en compensation.
+ 
+OK = +2 de Puissance Magique
+Annuler = +2 d'Esprit

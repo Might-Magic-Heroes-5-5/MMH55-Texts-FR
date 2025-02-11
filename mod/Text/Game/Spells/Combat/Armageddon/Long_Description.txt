@@ -1,0 +1,1 @@
+﻿Inflige de lourds dommages de Feu à toutes les créatures et Machines de Guerre présentes sur le champ de bataille, ainsi que des dommages physiques au point d'impact.<br><color_default>La formule de calcul des dégâts physiques supplémentaires est la même que pour Trait de Glace.

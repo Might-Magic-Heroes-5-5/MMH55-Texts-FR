@@ -1,0 +1,1 @@
+﻿Lorsqu'elle est attaquée au corps à corps, cette créature inflige 20% des dommages à son agresseur sous forme de dégâts élémentaires du feu, indépendamment de sa capacité à riposter.

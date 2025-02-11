@@ -1,0 +1,1 @@
+﻿<color_default>+<value=attack> en Attaque, -<value=defense> En Défense, +<value=init> en Initiative

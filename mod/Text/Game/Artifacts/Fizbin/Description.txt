@@ -1,0 +1,4 @@
+﻿-1 de Chance<br>
+-2 de Chance si non équipé<br><br><color=red>
+Artefact Maudit<br><color_default>
+Cet artéfact exerce une forte emprise sur le héros.
