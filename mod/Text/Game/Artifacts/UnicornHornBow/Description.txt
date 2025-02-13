@@ -1,5 +1,5 @@
-﻿-1 de Chance<br>
-Annule les pénalités de portée des unités d'attaque à distance de l'armée du porteur.<br><br><color=purple>
+﻿-50 % de pénalité pour toutes les créatures amies tirant à distance<br>
++1 Dégâts à tous les tireurs d'élite amis<br><br><color=purple>
 Rêve d'Archer<color_default><br>
 +1 de Chance (2/2)<br>
 *Le bonus d'ensemble est appliqué après la fermeture de l'écran d'inventaire.

@@ -1,1 +1,1 @@
-﻿Augmente de 25% l'Initiative du Héros en début de combat, lui permettant d'agir plus tôt.
+﻿Le héros reçoit un bonus de +0,2 à sa valeur d'ATB de départ au début de chaque combat, ce qui lui permet d'agir plus tôt.

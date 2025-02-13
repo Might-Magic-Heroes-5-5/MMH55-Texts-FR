@@ -1,1 +1,2 @@
-﻿Supprime la bordure de l'écran du jeu en mode fenêtré.
+﻿En mode fenêtré : Supprime la bordure mais ne permet pas de redimensionner l'image.
+En mode plein écran : Force le mode fenêtre avec la valeur de résolution actuelle du moniteur principal.

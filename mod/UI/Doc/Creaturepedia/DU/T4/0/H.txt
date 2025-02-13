@@ -1,1 +1,1 @@
-﻿Donjon<br>Rang 4<br>Créature de base
+﻿Dungeon<br>Tier 4<br>Base Creature

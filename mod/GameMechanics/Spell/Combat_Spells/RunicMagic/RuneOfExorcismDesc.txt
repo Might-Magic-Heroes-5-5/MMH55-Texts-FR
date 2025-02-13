@@ -1,0 +1,1 @@
+﻿Dissipe tous les effets négatifs affectant la créature (à condition qu'il s'agisse d'effets dissipables).

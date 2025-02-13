@@ -1,1 +1,1 @@
-﻿Forteresse<br>Rang 7<br>Créature de base
+﻿Fortress<br>Tier 7<br>Base Creature

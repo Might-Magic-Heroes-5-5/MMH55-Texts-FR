@@ -1,1 +1,1 @@
-﻿Donjon<br>Rang 7<br>Créature de base
+﻿Dungeon<br>Tier 7<br>Base Creature

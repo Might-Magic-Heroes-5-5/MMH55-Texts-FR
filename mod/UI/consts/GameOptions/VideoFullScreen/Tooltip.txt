@@ -1,0 +1,1 @@
+﻿Jouer le jeu en mode plein écran. S'il est désactivé, le mode fenêtre sera utilisé. En mode fenêtre, la fenêtre du jeu peut être redimensionnée en utilisant la souris pour faire glisser les bords de l'écran.

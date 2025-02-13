@@ -1,0 +1,2 @@
+﻿Sélectionnez la résolution d'écran prise en charge par votre carte vidéo et votre moniteur (plus cette valeur est élevée, plus la qualité de l'image est élevée, mais au détriment des performances).
+Cette option n'est pas utilisée lorsque le jeu est joué en mode fenêtre. Si la liste déroulante contient des valeurs vides, retournez au menu principal (où vous pouvez sélectionner « Options ») et revenez ici.

@@ -1,0 +1,1 @@
+﻿La vitesse de la créature augmente de 3 jusqu'à la fin du tour.

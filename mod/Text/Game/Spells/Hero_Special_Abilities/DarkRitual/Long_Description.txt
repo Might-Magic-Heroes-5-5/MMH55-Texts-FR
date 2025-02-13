@@ -1,1 +1,1 @@
-﻿Le héros retrouve tout son mana au prix de points de mouvement. Selon la maîtrise de la Sorcellerie, le héros perdra 12, 10 ou 8 points de mouvement pour chaque point de mana récupéré. Cette capacité ne peut être utilisée que si le héros n'a pas perdu de points de mouvement.
+﻿Le héros retrouve tout son mana au prix de points de mouvement. Selon la maîtrise de la Sorcellerie, le héros perdra 14, 12 ou 10 points de mouvement pour chaque point de mana récupéré. Cette capacité ne peut être utilisée que si le héros n'a pas perdu de points de mouvement.
