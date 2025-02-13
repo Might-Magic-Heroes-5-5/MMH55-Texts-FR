@@ -1,1 +1,1 @@
-﻿Augmente de +2 la Puissance Magique du Héros de façon permanente, et de +2 supplémentaire au niveau 20.
+﻿Augmente de +2 la Puissance Magique du Héros de façon permanente et au début de chaque semaine, des Djinns, des Sultans Djinns ou des Vizirs Djinns supplémentaires rejoignent l'armée du héros, à condition qu'il en ait déjà quelques-uns dans son armée. Le montant est égal à 0,33 * niveau du héros.

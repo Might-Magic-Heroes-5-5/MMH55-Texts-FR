@@ -1,0 +1,1 @@
+﻿Cette créature réduit de -2 le Moral de tous les ennemis situés dans les cases adjacentes. Inefficace contre les créatures dont le Moral est toujours neutre.

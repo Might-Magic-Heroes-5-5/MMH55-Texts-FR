@@ -1,0 +1,1 @@
+﻿<value=target_color>Effet de Peur :<body_bright> <value=target> le prochain tour est retardé de <value=damage>% ATB.

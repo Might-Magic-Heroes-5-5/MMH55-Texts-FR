@@ -1,1 +1,1 @@
-﻿Inflige des dommages de Ténèbres à toutes les créatures vivantes sur le champ de bataille, à l'exception des morts-vivants, des créatures élémentaires, des orcs et des créatures infernales (les Elfes Noirs ne sont pas immunisés).
+﻿Inflige des dommages de Ténèbres à toutes les créatures vivantes et les créatures élémentaires sur le champ de bataille, à l'exception des morts-vivants, des orcs et des créatures infernales (les Elfes Noirs ne sont pas immunisés).

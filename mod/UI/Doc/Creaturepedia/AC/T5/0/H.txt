@@ -1,1 +1,1 @@
-﻿Académie<br>Rang 5<br>Créature de base
+﻿Academy<br>Tier 5<br>Base Creature

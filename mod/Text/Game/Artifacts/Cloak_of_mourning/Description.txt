@@ -1,5 +1,6 @@
 ﻿-2 de Moral aux créatures ennemies<br>
 -2 de Chance aux créatures ennemies<br><br>
+-2 de Défense<br><br>
 <color=purple>Etreinte de la Mort<color_default><br>
 +6 de Puissance Magique (3/6)<br>
 +12 de Puissance Magique (6/6)<br>

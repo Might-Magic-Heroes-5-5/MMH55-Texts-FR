@@ -1,1 +1,1 @@
-﻿Forteresse<br>Rang 5<br>Créature de base
+﻿Fortress<br>Tier 5<br>Base Creature

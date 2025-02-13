@@ -1,1 +1,1 @@
-﻿Forteresse<br>Rang 3<br>Créature de base
+﻿Fortress<br>Tier 3<br>Base Creature

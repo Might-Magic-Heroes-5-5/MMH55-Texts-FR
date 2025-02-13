@@ -1,1 +1,1 @@
-﻿Augmente de +1 l'Esprit du Héros de façon permanente et chaque squelette de son armée ajoute 0,5 pièce d'Or par jour aux revenus du royaume.
+﻿Augmente de +2 l'Esprit du Héros de façon permanente. Il gagne également +5% en nécromancie pour les créatures relevées. Chaque squelette de son armée ajoute 0,5 pièce d'Or par jour aux revenus du royaume. Les héros de la Nécropole relèvent également un nombre supplémentaire de squelettes chaque semaine. Ce nombre est égal à leur Esprit.
