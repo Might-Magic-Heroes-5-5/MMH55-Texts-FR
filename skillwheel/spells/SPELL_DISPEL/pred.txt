@@ -1,0 +1,1 @@
+Probabilité dde succès : <value=damage>

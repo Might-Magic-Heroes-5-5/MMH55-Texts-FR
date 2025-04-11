@@ -1,0 +1,6 @@
+Summoning
+Click Gauche/Droit pour augmenter de 1/10. Click du milieu pour réinitialiser.
+Click Gauche/Droit pour augmenter de 1. Click du milieu pour réinitialiser.
+Niveau du Héros, Click Gauche/Droit pour augmenter de 1/10. Click du milieu pour réinitialiser.
+Quantité de cristaux de Sang de Dragon
+Niveau de la guilde des Mages

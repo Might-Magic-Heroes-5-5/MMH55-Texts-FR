@@ -1,0 +1,2 @@
+Dégâts min de la créature = min dmg + (max dmg - min dmg)*<value=damage>.
+Durée : <value=duration> tours.

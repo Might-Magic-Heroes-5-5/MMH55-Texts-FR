@@ -1,0 +1,13 @@
+Stats
+Attaque
+Défense
+Dégat
+Initiative
+Vitesse
+Points de Vie
+Réserve de Mana
+Tirs
+Croissance hebdomadaire
+Coût
+Rangs
+Aptitudes :

@@ -1,0 +1,1 @@
+Chaque coup diminue la Défense des créatures ennemies de <value>.

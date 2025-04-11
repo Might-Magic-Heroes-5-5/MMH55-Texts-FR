@@ -1,0 +1,1 @@
+Si la « Gestion des villes » est utilisée n'importe où sur la carte d'aventure, le héros peut bénéficier du sort « Portes de la ville ». Il s'agit d'une version avancée du sort « Portail Foyer » qui permet au héros de se téléporter dans n'importe quelle ville possédée avec une Guilde des Mages construite de niveau 5. Le sort fait tourner toutes les villes une par une.

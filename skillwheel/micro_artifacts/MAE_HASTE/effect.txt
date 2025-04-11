@@ -1,0 +1,1 @@
+L'Initiative des créatures est augmentée de <value>%.

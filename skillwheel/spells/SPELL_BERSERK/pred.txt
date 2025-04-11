@@ -1,0 +1,2 @@
+Dégâts sont modifiés de <value=enchant>%.
+Durée du sort : <value=duration> action.

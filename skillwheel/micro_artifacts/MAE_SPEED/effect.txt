@@ -1,0 +1,1 @@
+La Vitesse des créatures est augmentée de <value>.
