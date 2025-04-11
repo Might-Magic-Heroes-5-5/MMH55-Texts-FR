@@ -1,0 +1,1 @@
+Les dégâts magiques reçus sont réduits de <value>%.

@@ -1,0 +1,2 @@
+,
+Dégats améliorés: <value=damage2>

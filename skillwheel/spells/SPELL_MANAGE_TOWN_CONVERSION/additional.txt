@@ -1,0 +1,1 @@
+Les villes avec une capitale ne peuvent pas être converties. Tous les bâtiments seront reconstruits, à l'exception des bâtiments spéciaux, et la population des logements sera réduite à une semaine. Le nombre maximum d'habitations T1, T2 et T3 est de 2 pour chaque type. Le nombre maximum de postes militaires T4-7 est de 4.

@@ -1,0 +1,1 @@
+Santé = 200 + 30*SP + 10*HERO_LVL + 0*KN; Dégats min = 0 + 15*SP + 0*HERO_LVL; Dégats max = 0 + 22*SP + 0*HERO_LVL; Attaque = 10 + 1*SP + 0*HERO_LVL; Défense = 10 + 1*SP + 0*HERO_LVL; Initiative = 14 + 0.05*SP + 0*HERO_LVL; Vitesse = 6 + 0.075*SP + 0*HERO_LVL.	

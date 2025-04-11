@@ -1,0 +1,4 @@
++2 de Puissance Magique
+Cette baguette peut-être utilisée pour lancer un sort un certain nombre de fois, avec un effet équivalent au niveau de maîtrise Pratique (ou plus si le niveau de maîtrise du Héros est supérieur). Elle peut être rechargée dans une Guilde des Mages. Les sorts invoqués peuvent être l'un des suivants : "Essaim" (6), "Boule de Feu" (4), "Trait de Glace" (6), "Confusion" (6), "Cristal des Arcanes" (5), "Téléportation" (3), "Grâce de Pureté" (3), "Séisme" (5), "Grâce de Déflection" (6), "Chagrin" (5).
+
+Les Chefs de Clan ne peuvent pas lancer de sorts mais reçoivent le bonus de Puissance Magique.

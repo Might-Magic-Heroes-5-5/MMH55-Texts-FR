@@ -1,0 +1,11 @@
+Description
+Connaissance
+Click Gauche/Droit pour augmenter la connaissance de 1/10. Click du milieu pour réinitialiser.
+Elément
+Effets
+Multiplicateur de coûts
+Forge
+Aucun élément ou effet sélectionné
+Inventaire
+Ranger Inventaire
+Coût

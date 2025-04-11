@@ -1,0 +1,1 @@
+Les dégâts des créatures sont augmentés de <value>.

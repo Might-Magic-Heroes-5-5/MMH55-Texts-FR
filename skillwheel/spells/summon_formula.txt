@@ -1,0 +1,3 @@
+Groupe de <value2> créatures sera invoqué.
+
+Formule = SQRT(<value3>*<value4>)*(3 + <value5>)/<value6>

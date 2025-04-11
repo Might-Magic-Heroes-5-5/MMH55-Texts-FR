@@ -1,0 +1,1 @@
+L'Attaque des créatures est augmentée de <value>.

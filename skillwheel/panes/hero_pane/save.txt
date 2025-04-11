@@ -1,0 +1,3 @@
+Sauvegarder
+Entrer un nom de sauvegarde
+Nom déjà utilisé. Voulez-vous écraser ?

@@ -1,0 +1,15 @@
+Propriétés
+Niveau
+Aucun
+Notions
+Pratique
+Avancé
+Niveau de maîtrise
+Coût Mana
+Puissance Magique
+Click Gauche/Droit pour augmenter la Puissance Magique de 1/10. Click du milieu pour réinitialiser.
+Prérequis
+Version de Masse
+Version Améliorée
+Niveau du héros pour le calcul des dégâts améliorés. Click Gauche/Droit pour augmenter de +1/+10. Click du milieu pour réinitialiser.
+Ecoles primaires

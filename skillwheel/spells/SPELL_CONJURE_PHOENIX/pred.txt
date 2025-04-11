@@ -1,0 +1,1 @@
+La Puissance Magique effective est égale à 1/<value=damage> de la Puissance Magique du Héros.
