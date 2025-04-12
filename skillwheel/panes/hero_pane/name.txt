@@ -1,8 +1,8 @@
 Faction Classes
 Click Gauche/Droit pour augmenter de 1/10. Click du milieu pour réinitialiser.
 Click Gauche/Droit pour augmenter le niveau de 1/10. Click du milieu pour réinitialiser.
-2.5%*(Attaque-Défense)+Offense_skill[10%/15%/20%] augmentation des dégâts
-2.5%*(Défense-Attaque)+Defense_skill[5%/10%/15%] réduction des dégâts
+2.5%*(Attaque-Défense)*Offense_skill[10%/15%/20%] augmentation des dégâts
+2.5%*(Défense-Attaque)*Defense_skill[5%/10%/15%] réduction des dégâts
 Mana du Héros
 Sorts:
 Charger Héros
