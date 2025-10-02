@@ -1,0 +1,1 @@
+﻿Toutes les créatures amies situées sur les cases voisines subissent moins de dégâts lors d'attaques à distance non magiques. La réduction des dégâts est égale à 2 % pour chaque unité présente dans le groupe, mais ne peut dépasser 50 %.
