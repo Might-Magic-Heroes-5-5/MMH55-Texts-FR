@@ -1,1 +1,1 @@
-﻿Réduit de 24% la perte d'Initiative du Héros liée à l'utilisation d'un Cri de Guerre.
+﻿L'utilisation d'une capacité activée de la catégorie Cri de guerre retarde le prochain tour du héros de 22 % de moins, mais le moral est réduit de -2 si le héros possède le bonus Empathie.<br><color_default>L'initiative de base du héros est de 11 et augmente jusqu'à atteindre exactement 13 tant que des cris de guerre sont utilisés.

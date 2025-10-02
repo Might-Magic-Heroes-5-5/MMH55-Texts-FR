@@ -1,0 +1,1 @@
+﻿La créature peut soigner complètement une unité du groupe ami ciblé et dissiper les effets négatifs mais pas les sorts.
